@@ -1,6 +1,6 @@
 # Context-8
 
-Context-8 is an evaluation dataset designed to assess context sensitivity in Machine Translation for English-to-Japanese translation. The first version consists of 130 groups comprising 533 English-to-Japanese translation examples, each requiring different context categories to produce fluent and appropriate translations.
+Context-8 is an evaluation dataset designed to assess context sensitivity in Machine Translation. The first version consists of 130 groups comprising 533 English-to-Japanese translation examples, each requiring different context categories to produce fluent and appropriate translations.
 
 Context-8 is built from both hand-crafted and online materials. Real-world sources include publicly available written and online materials, covering a wide range of text types and registers.
 
