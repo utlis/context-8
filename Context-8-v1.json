@@ -1,0 +1,6039 @@
+{
+  "schema_version": "1.0",
+  "category_map": {
+    "A1": "Message",
+    "A2": "Language Events",
+    "A3": "Genre",
+    "B1": "Participants",
+    "B2": "Channel",
+    "B3": "Social-cultural System",
+    "B4": "Setting and Scene",
+    "B5": "Truth Value"
+  },
+  "items": [
+    {
+      "group_id": 1,
+      "sid": "1-0",
+      "st": "He went to the bank.",
+      "ref": "彼は銀行に行きました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 1,
+      "sid": "1-1",
+      "st": "He went to the bank and changed some money.",
+      "ref": "彼は銀行に行って両替をしました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 1,
+      "sid": "1-2",
+      "st": "He went to the bank and took a walk along the river.",
+      "ref": "彼は川岸に行って散歩をしました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 1,
+      "sid": "1-3",
+      "st": "He went to the bank with a lot of coins.",
+      "ref": "彼はたくさんの硬貨を持って銀行に行きました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 1,
+      "sid": "1-4",
+      "st": "He went to the bank with a lot of coins and buried them under a tree.",
+      "ref": "彼はたくさんの硬貨を持って川岸に行き、それらを木の根元に埋めました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 2,
+      "sid": "2-0",
+      "st": "Cheers!",
+      "ref": "乾杯！",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 2,
+      "sid": "2-1",
+      "st": "A: \"It has been a long time since I had a beer.\"\nB: \"Cheers!\"\nA: \"Cheers!\"",
+      "ref": "A：「久しぶりにビールを飲みます。」\nB：「乾杯！」\nA：「乾杯！」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 2,
+      "sid": "2-2",
+      "st": "A: \"I will send you the photos later.\"\nB: \"Cheers!\"",
+      "ref": "A: 「後で写真を送りますね。」\nB: 「ありがとうございます！」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 2,
+      "sid": "2-3",
+      "st": "A: \"Oh thank you for helping me!\"\nB: \"Cheers!\"",
+      "ref": "A: 「ああ、手伝ってくれてありがとうございます！」\nB: 「とんでもないです！」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 2,
+      "sid": "2-4",
+      "st": "A: \"See you tomorrow!\"\nB: \"Cheers!\"",
+      "ref": "A：「また明日！」\nB：「バイバイ！」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 3,
+      "sid": "3-0",
+      "st": "Amazon is down.",
+      "ref": "Amazonがダウンしています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 3,
+      "sid": "3-1",
+      "st": "Amazon is down. The retail site is returning 500 errors across regions.",
+      "ref": "Amazonがダウンしています。ECサイトは地域を問わず500エラーを返しています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 3,
+      "sid": "3-2",
+      "st": "Amazon is down. Its stock is trading 3% lower in pre-market.",
+      "ref": "Amazon株は下落しています。プレマーケットで3％安で取引されています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 4,
+      "sid": "4-0",
+      "st": "It’s not working.",
+      "ref": "それは作動していません。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 4,
+      "sid": "4-1",
+      "st": "I'm planning to meet at 5pm, but it's not working out.",
+      "ref": "午後5時に会う予定ですが、難しそうです。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 4,
+      "sid": "4-2",
+      "st": "I pressed the power button twice, but it’s not working.",
+      "ref": "電源ボタンを2回押したのですが、作動しません。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 4,
+      "sid": "4-3",
+      "st": "I apologized and wanted to make up with Alex, but it’s not working.",
+      "ref": "謝ってアレックスと仲直りしようとしましたが、うまくいっていません。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 5,
+      "sid": "5-0",
+      "st": "LLM",
+      "ref": "大規模言語モデル",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 5,
+      "sid": "5-1",
+      "st": "After completing her J.D. at Columbia Law School, Mei pursued an LLM in International Arbitration at the London School of Economics. During the program she took courses in investment treaty law and comparative civil procedure.",
+      "ref": "メイはコロンビア・ロースクールでJ.D.を取得した後、ロンドン・スクール・オブ・エコノミクスで国際仲裁の法学修士課程に進学しました。その課程で、投資条約法と比較民事訴訟法のコースを履修しました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 5,
+      "sid": "5-2",
+      "st": "How Good Are LLMs and MT for Literary Translation, Really? Literary Translation Evaluation with Humans and LLMs",
+      "ref": "実際のところ、文学翻訳において大規模言語モデルと機械翻訳はどの程度有効なのか？人間と大規模言語モデルによる文学翻訳評価",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 5,
+      "sid": "5-3",
+      "st": "How Good Are LLMs and Machine Translation for Literary Translation, Really? Literary Translation Evaluation with Humans and LLMs",
+      "ref": "実際のところ、文学翻訳において大規模言語モデルと機械翻訳はどの程度有効なのか？人間と大規模言語モデルによる文学翻訳評価",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 5,
+      "sid": "5-4",
+      "st": "LLMs are deep learning models that consume and train on massive datasets, allowing them to excel in language processing tasks such as translation. How Good Are LLMs for Literary Translation, Really? Literary Translation Evaluation with Humans and LLMs",
+      "ref": "大規模言語モデルは膨大なデータセットを取り込んで学習するディープラーニングモデルであり、翻訳などの言語処理タスクで高い性能を発揮する。実際のところ、文学翻訳において大規模言語モデルと機械翻訳はどの程度有効なのか？人間と大規模言語モデルによる文学翻訳評価",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 6,
+      "sid": "6-0",
+      "st": "I don't think she is bald.",
+      "ref": "彼女がハゲているとは思いません。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 6,
+      "sid": "6-1",
+      "st": "A: I think she is bald.\nB: I don't think she is bald.",
+      "ref": "A: 彼女はハゲていると思います。\nB: 私は、彼女がハゲているとは思いません。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 6,
+      "sid": "6-2",
+      "st": "A: She is bald, isn't she?\nB: I don't think she is bald.",
+      "ref": "A: 彼女はハゲているよね？\nB: ハゲていないと思います。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 7,
+      "sid": "7-0",
+      "st": "This is Mr. Nakamura's house.",
+      "ref": "これは中村さんの家です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 7,
+      "sid": "7-1",
+      "st": "A: Whose house is this?\nB: This is Mr. Nakamura's house.",
+      "ref": "A: これは誰の家ですか？\nB: これは中村さんの家です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 7,
+      "sid": "7-2",
+      "st": "A: Where is Mr. Nakamura's house?\nB: This is Mr. Nakamura's house.",
+      "ref": "A: 中村さんの家はどこですか？\nB: これが中村さんの家です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 8,
+      "sid": "8-0",
+      "st": "schedule",
+      "ref": "スケジュール",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 8,
+      "sid": "8-1",
+      "st": "My Schedule\n\n7:00 AM: Wake up\n7:30 AM: Eat breakfast\n8:00 AM: Get dressed\n9:00 AM: Work on emails",
+      "ref": "私のスケジュール\n\n午前7:00：起床\n午前7:30：朝食\n午前8:00：着替え\n午前9:00：メールチェック",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 8,
+      "sid": "8-2",
+      "st": "2025 Class Schedule for the Master's Program\n【Class Period】\n\n1st Quarter\t\n2nd Quarter\t\n3rd Quarter\n4th Quarter\nIntensive(Q1,2)\t\nIntensive(Q3,4)",
+      "ref": "2025年度 修士課程 授業時間割\n【授業期間】\n\n1学期\n2学期\n3学期\n4学期\n集中講義(Q1,2)\n集中講義(Q3,4)",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 8,
+      "sid": "8-3",
+      "st": "Housing Act 1988\n\nSCHEDULES\n\nSCHEDULE 1 Tenancies Which Cannot be Assured Tenancies\nSCHEDULE 2 Grounds for Possession of Dwelling-houses let on Assured Tenancies",
+      "ref": "1988年住宅法\n\n附則\n\n附則1 保証賃貸借に該当しない賃貸借\n附則2 保証賃貸借に基づき賃貸される住宅の明け渡し請求事由",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 9,
+      "sid": "9-0",
+      "st": "A: It stopped?\nB: What?",
+      "ref": "A: 止まりましたか？\nB: 何が？",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 9,
+      "sid": "9-1",
+      "st": "A: It stopped?\nB: What?\nA: The rain.",
+      "ref": "A: 止みましたか？\nB: 何が？\nA: 雨。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 9,
+      "sid": "9-2",
+      "st": "A: It stopped?\nB: What?\nA: The car.",
+      "ref": "A: 止まりましたか？\nB: 何が？\nA: 車。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 9,
+      "sid": "9-3",
+      "st": "A: It stopped?\nB: What?\nA: The wind.",
+      "ref": "A: 止みましたか？\nB: 何が？\nA: 風。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 10,
+      "sid": "10-0",
+      "st": "The wind stopped.",
+      "ref": "風が止みました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 10,
+      "sid": "10-1",
+      "st": "A: It stopped.\nB: What?\nA: The wind stopped.",
+      "ref": "A: 止みました。\nB: 何が？\nA: 風が止みました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 10,
+      "sid": "10-2",
+      "st": "It rained heavily, with strong wind. The wind stopped. So at least the umbrella started working.",
+      "ref": "雨が激しく降り、風も強かったです。風は止みました。少なくとも傘は機能し始めました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 11,
+      "sid": "11-0",
+      "st": "My cat is cute.",
+      "ref": "私の猫はかわいいです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 11,
+      "sid": "11-1",
+      "st": "A: Which cat do you think is cute?\nB: My cat is cute.",
+      "ref": "A: どの猫が可愛いと思いますか？\nB: 私の猫が可愛いです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 11,
+      "sid": "11-2",
+      "st": "I always show everyone pictures of my pets. My cat is cute.",
+      "ref": "いつもみんなにペットの写真を見せています。うちの猫は可愛いです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 12,
+      "sid": "12-0",
+      "st": "The coffee is good.",
+      "ref": "コーヒーは美味しいです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 12,
+      "sid": "12-1",
+      "st": "When I walked into the café, everyone was saying the same thing: the coffee is good.",
+      "ref": "カフェに入ったとき、みんなが同じことを言っていました。「コーヒーが美味しい」と。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 12,
+      "sid": "12-2",
+      "st": "That café's coffee is good, but the sandwiches are not that delicious.",
+      "ref": "あのカフェのコーヒーは美味しいですが、サンドイッチはそんなに美味しくありません。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 13,
+      "sid": "13-0",
+      "st": "washer",
+      "ref": "洗濯機",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 13,
+      "sid": "13-1",
+      "st": "This laundromat has 10 washers and 5 dryers.",
+      "ref": "このコインランドリーには洗濯機が 10 台、乾燥機が 5 台あります。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 13,
+      "sid": "13-2",
+      "st": "Make sure to place a washer before tightening the bolt.",
+      "ref": "ボルトを締める前に必ずワッシャーを入れてください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 13,
+      "sid": "13-3",
+      "st": "This washer prevents the nut from loosening.",
+      "ref": "このワッシャーはナットが緩むのを防ぎます。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 13,
+      "sid": "13-4",
+      "st": "You need a washer to secure the screw.",
+      "ref": "ネジを固定するにはワッシャーが必要です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 13,
+      "sid": "13-5",
+      "st": "I well remember an occasion of a problem with a supply of washers, a problem which could easily have led to some form of industrial dispute.",
+      "ref": "ワッシャーの供給に関する問題があったことをよく覚えています。その問題は、容易に何らかの労働争議に発展する可能性があるものでした。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 13,
+      "sid": "13-6",
+      "st": "The total imports of iron and steel rivets and washers amounted to 1,991 tons during the year 1935 and to 3,095 tons during the first 11 months of 1936.",
+      "ref": "鉄鋼製リベットおよびワッシャーの総輸入量は、1935 年中に 1,991 トン、1936 年の最初の 11 か月間に 3,095 トンに達しました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 14,
+      "sid": "14-0",
+      "st": "How's it going?",
+      "ref": "お元気ですか？",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 14,
+      "sid": "14-1",
+      "st": "How's it going? Nearly finished?",
+      "ref": "どうですか？もうすぐ終わりますか？",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 14,
+      "sid": "14-2",
+      "st": "My boss came over while I was working on the design and said, \"How’s it going? Nearly finished?\"",
+      "ref": "デザインに取り組んでいる時に上司が来て、「どう？もうすぐ終わる？」と聞いてきました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 14,
+      "sid": "14-3",
+      "st": "How’s it going? Getting plenty of orders?",
+      "ref": "順調ですか？注文はたくさん入っていますか？",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 14,
+      "sid": "14-4",
+      "st": "Whenever I see my brother, he says, “How’s it going? Getting plenty of orders?”",
+      "ref": "兄に会うたびに「順調？注文はいっぱい入ってる？」って聞かれるんです。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 15,
+      "sid": "15-0",
+      "st": "Thanks for your patience. ",
+      "ref": "お待ちいただきありがとうございます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 15,
+      "sid": "15-1",
+      "st": "Thanks for your patience. We’ll get back to you shortly.",
+      "ref": "お待ちいただきありがとうございます。すぐにご連絡いたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 15,
+      "sid": "15-2",
+      "st": "We apologize for the wait, and thanks for your patience.",
+      "ref": "お待たせしてしまい申し訳ございません。お待ちいただきありがとうございます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 15,
+      "sid": "15-3",
+      "st": "Thanks for your patience while we get this sorted for you.",
+      "ref": "問題を解決する間お待ちいただきありがとうございます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 15,
+      "sid": "15-4",
+      "st": "We apologize for any inconvenience this interruption of lounge service may cause and thanks for your patience and understanding.",
+      "ref": "ラウンジサービスの休止によりご不便をおかけしておりますことを、心よりお詫び申し上げます。何卒ご理解を賜りますようお願い申し上げます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 15,
+      "sid": "15-5",
+      "st": "Thank you for your patience. Your meal is ready.",
+      "ref": "お待たせいたしました。お食事がご用意できました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 16,
+      "sid": "16-0",
+      "st": "Put it out.",
+      "ref": "消してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 16,
+      "sid": "16-1",
+      "st": "The oil in the pan started to smoke. Put it out.",
+      "ref": "フライパンの油が煙を上げ始めました。火を止めてください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 16,
+      "sid": "16-2",
+      "st": "The update is approved. Put it out on the website.",
+      "ref": "アップデートは承認されました。ウェブサイトに公開してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 16,
+      "sid": "16-3",
+      "st": "Trash collection’s at 7 a.m. Put it out then.",
+      "ref": "ゴミ収集は午前7時です。その時に出してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 17,
+      "sid": "17-0",
+      "st": "Break it down.",
+      "ref": "分解してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 17,
+      "sid": "17-1",
+      "st": "I can’t follow the proof. Break it down.",
+      "ref": "証明が理解できていません。詳しく教えてください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 17,
+      "sid": "17-2",
+      "st": "We’ll take the set apart after the show. Break it down.",
+      "ref": "ショーが終わったらセットを解体します。分解をお願いします。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 17,
+      "sid": "17-3",
+      "st": "The beat drops here, break it down.",
+      "ref": "ここでビートがドロップするので、一気に盛り上がっていきましょう。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 18,
+      "sid": "18-0",
+      "st": "We will sanction this.",
+      "ref": "私たちはこれを承認します。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 18,
+      "sid": "18-1",
+      "st": "After two years of safety trials, the board voted 7–2. We will sanction this.",
+      "ref": "2年間の安全性試験を経て、委員会は7対2で可決しました。私たちはこれを承認します。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 18,
+      "sid": "18-2",
+      "st": "Following the on-field brawl and video review, the league stated: We will sanction this.",
+      "ref": "試合中の乱闘とビデオ判定を受けて、リーグは「我々はこの行為に対して処分を科す」と発表しました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 18,
+      "sid": "18-3",
+      "st": "The treasury concluded its review of the pipeline budget. We will sanction this.",
+      "ref": "財務省はパイプライン予算の見直しを完了しました。私たちはこれを承認します。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 19,
+      "sid": "19-0",
+      "st": "We are reviewing the sentence.",
+      "ref": "私たちはその文を見直しています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 19,
+      "sid": "19-1",
+      "st": "The appeals chamber debated mitigating factors. We are reviewing the sentence.",
+      "ref": "控訴審では、酌量すべき要素について議論が行われました。私たちはその判決を再検討しています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 19,
+      "sid": "19-2",
+      "st": "The copyeditor circled a sentence in red. We are reviewing the sentence.",
+      "ref": "校正者が一文に赤で丸をつけました。私たちはその文を見直しています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 19,
+      "sid": "19-3",
+      "st": "In the seminar, the professor tapped the board. We are reviewing the sentence.",
+      "ref": "セミナーで教授が黒板を叩きました。私たちはその文を見直しています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 20,
+      "sid": "20-0",
+      "st": "Please cite the article.",
+      "ref": "その記事を引用してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 20,
+      "sid": "20-1",
+      "st": "The Counsel flipped to the penalties section. Please cite the article.",
+      "ref": "弁護人は刑罰条項の条文を開きました。その条文を引用してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 20,
+      "sid": "20-2",
+      "st": "The seminar paper must reference peer-reviewed work. Please cite the article.",
+      "ref": "セミナー論文は査読済みの論文を参照する必要があります。その論文を引用してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 20,
+      "sid": "20-3",
+      "st": "The editor wants a source for the claim. Please cite the article.",
+      "ref": "編集者は主張の根拠を求めています。その記事を引用してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 21,
+      "sid": "21-0",
+      "st": "The case is closed.",
+      "ref": "ケースは閉まっています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 21,
+      "sid": "21-1",
+      "st": "Detectives logged the last interview. The case is closed.",
+      "ref": "刑事たちは最後の聞き込み記録を作成しました。事件は解決しました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 21,
+      "sid": "21-2",
+      "st": "The judge signed the final order. The case is closed.",
+      "ref": "裁判官は最終命令に署名しました。事件は終結しました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 21,
+      "sid": "21-3",
+      "st": "He snapped the latches and slid the suitcase under the bed. The case is closed.",
+      "ref": "彼はラッチをパチンと鳴らし、スーツケースをベッドの下に滑り込ませました。スーツケースは閉じられています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 22,
+      "sid": "22-0",
+      "st": "We need a statement.",
+      "ref": "声明が必要です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 22,
+      "sid": "22-1",
+      "st": "The press office lined up microphones. We need a statement.",
+      "ref": "報道室はマイクを並べました。声明が必要です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 22,
+      "sid": "22-2",
+      "st": "The teller checked the account history. We need a statement.",
+      "ref": "窓口係員が口座履歴を確認しました。明細書が必要です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 22,
+      "sid": "22-3",
+      "st": "The detective opened a fresh form. We need a statement.",
+      "ref": "刑事が新しい書類を開きました。供述が必要です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 23,
+      "sid": "23-0",
+      "st": "He charged her.",
+      "ref": "彼は彼女に料金を請求した。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 23,
+      "sid": "23-1",
+      "st": "At the register she added a tote. He charged her.",
+      "ref": "レジで彼女はトートバッグを追加し、彼は彼女に料金を請求した。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 23,
+      "sid": "23-2",
+      "st": "The forward burst towards midfield. He charged her.",
+      "ref": "フォワードはミッドフィールドに向かって突進しました。彼は彼女に突進しました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 23,
+      "sid": "23-3",
+      "st": "The district attorney read the statute in court. He charged her.",
+      "ref": "地方検事は法廷で法令を読み上げました。彼女は起訴されました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 24,
+      "sid": "24-0",
+      "st": "The service starts at ten.",
+      "ref": "サービスは10時からです。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 24,
+      "sid": "24-1",
+      "st": "Bells will ring and the choir will process. The service starts at ten.",
+      "ref": "鐘が鳴り、聖歌隊が入場します。礼拝は10時に始まります。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 24,
+      "sid": "24-2",
+      "st": "Express trains will resume after maintenance. The service starts at ten.",
+      "ref": "特急列車はメンテナンス後に運行を再開します。運行は10時に再開されます。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 24,
+      "sid": "24-3",
+      "st": "Your plan will activate after identity verification. The service starts at ten.",
+      "ref": "本人確認後、プランが有効になります。サービスは10時に開始されます。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 25,
+      "sid": "25-0",
+      "st": "I’ll hand you over to the specialist.",
+      "ref": "専門家に引き継ぎます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 25,
+      "sid": "25-1",
+      "st": "Thank you for calling Nimbus Support. One moment, I’ll hand you over to the specialist.",
+      "ref": "Nimbusサポートにお電話いただきありがとうございます。少々お待ちください、専門の担当者に引き継ぎます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 25,
+      "sid": "25-2",
+      "st": "The specialist is next door; this way, please. I’ll hand you over to the specialist.",
+      "ref": "専門医は隣におりますので、こちらへお越しください。専門医に引き継ぎます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 25,
+      "sid": "25-3",
+      "st": "Added @Tom to this thread for follow-up. I’ll hand you over to the specialist.",
+      "ref": "フォローアップのため、@Tom をこのスレッドに追加しました。専門家に引き継ぎます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2"
+      ]
+    },
+    {
+      "group_id": 26,
+      "sid": "26-0",
+      "st": "Hepatology",
+      "ref": "肝臓病学",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 26,
+      "sid": "26-1",
+      "st": "According to findings available in the April issue of Hepatology, a journal published by Wiley-Blackwell on behalf of the American Association for the Study of Liver Diseases, there were 3.4 million symptomatic cases, 70,000 deaths, and 3,000 stillbirths from HEV that year in countries throughout Asia and Africa.",
+      "ref": "アメリカ肝臓病学会の委託を受けてワイリー・ブラックウェルが発行する学術誌『Hepatology』4月号に掲載された調査結果によりますと、その年、アジアとアフリカ諸国でHEVの症状のある症例は340万件に上り、死亡者は7万人、死産は3,000件に達しました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 26,
+      "sid": "26-2",
+      "st": "About Hepatology",
+      "ref": "肝臓病学について",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 26,
+      "sid": "26-3",
+      "st": "About Hepatology\nHepatology is the premier publication in the field of liver disease, publishing original, peer-reviewed articles concerning all aspects of liver structure, function and disease. ",
+      "ref": "Hepatologyについて\nHepatologyは肝疾患分野における最高の出版物であり、肝臓の構造、機能、疾患のあらゆる側面に関するオリジナルの査読済み論文を掲載しています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 27,
+      "sid": "27-0",
+      "st": "Interest Income",
+      "ref": "利息収入",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 27,
+      "sid": "27-1",
+      "st": "Interest income in the second half of 2014 was RMB1.9 million (US$0.3 million), compared to RMB1.5 million (US$0.2 million) in the first half of 2014 and RMB2.6 million (US$0.4 million) in the second half of 2013. The fluctuation of interest income was typically in line with our cash balances.",
+      "ref": "2014年下半期の利子所得は190万人民元（30万米ドル）で、2014年上半期の150万人民元（20万米ドル）および2013年下半期の260万人民元（40万米ドル）と比較されます。利子所得の変動は、通常、当社の現金残高と連動しています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 27,
+      "sid": "27-2",
+      "st": "Interest Income\nInterest income in the second half of 2014 was RMB1.9 million (US$0.3 million), compared to RMB1.5 million (US$0.2 million) in the first half of 2014 and RMB2.6 million (US$0.4 million) in the second half of 2013. The fluctuation of interest income was typically in line with our cash balances.",
+      "ref": "利子所得\n2014年下半期の利子所得は190万人民元（30万米ドル）で、2014年上半期の150万人民元（20万米ドル）および2013年下半期の260万人民元（40万米ドル）と比較されます。利子所得の変動は、通常、当社の現金残高と連動しています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 28,
+      "sid": "28-0",
+      "st": "Results are shown below.",
+      "ref": "結果は以下の通りです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 28,
+      "sid": "28-1",
+      "st": "In this paper, we tested three hypotheses using a mixed-effects model. Significance was set at α = .05. Results are shown below.",
+      "ref": "本稿では、混合効果モデルを用いて3つの仮説を検証した。有意水準はα = .05とした。結果は以下の通りである。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 28,
+      "sid": "28-2",
+      "st": "Q3 performance exceeded the forecast by 7%. The key drivers were pricing and retention. Results are shown below. Please have a look at this table.",
+      "ref": "第3四半期の業績は予想を7%上回りました。主な牽引役は価格設定と顧客維持率でした。結果は以下の通りです。表をご覧ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 28,
+      "sid": "28-3",
+      "st": "The department has compiled the latest employment indicators. Results are shown below. Methodological notes follow in Appendix A.",
+      "ref": "当局は最新の雇用指標をまとめました。結果は以下の通りです。方法論に関する注記は付録Aに記載されています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 28,
+      "sid": "28-4",
+      "st": "The compliance review assessed adherence to the Policy across five business units and two reporting periods, focusing on access controls, data retention, and third-party oversight. Sampling followed the documented methodology and all exceptions were validated with control owners. Results are shown below. Deviations and remediation timelines are itemized in Section 4, with high-risk findings requiring completion within 30 days.",
+      "ref": "コンプライアンスレビューでは、5つの事業部門と2つの報告期間にわたり、アクセス制御、データ保持、および第三者による監視に焦点を当て、ポリシーの遵守状況を評価しました。サンプリングは文書化された方法論に従って実施され、すべての例外事項は管理責任者によって検証されました。結果は以下の通りです。逸脱事項と是正スケジュールはセクション4に詳細に記載されており、高リスクの発見事項については、30日以内の完了が求められています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 29,
+      "sid": "29-0",
+      "st": "Subject\nI\t\nyou\t\nhe\t\nshe\t\nit\t\nwe\t\nyou\t\nthey",
+      "ref": "主語\n私\nあなた\n彼\n彼女\nそれ\n私たち\nあなたたち\n彼ら（彼女ら）",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 29,
+      "sid": "29-1",
+      "st": "Personal Pronouns\nPersonal pronouns may be used as:\n-the subject of a verb, or\n-the object of a verb.\n\nSubject\nI\t\nyou\t\nhe\t\nshe\t\nit\t\nwe\t\nyou\t\nthey",
+      "ref": "人称代名詞\n人称代名詞は、以下の用途で使われます。\n- 動詞の主語、あるいは\n- 動詞の目的語。\n\nSubject（主語）\nI（私）\nyou（あなた）\nhe（彼）\nshe（彼女）\nit（それ）\nwe（私たち）\nyou（あなたたち）\nthey（彼ら、彼女ら）",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 29,
+      "sid": "29-2",
+      "st": "Let’s Learn English through Various Subjects\n\nSubject\nI\t\nyou\t\nhe\t\nshe\t\nit\t\nwe\t\nyou\t\nthey",
+      "ref": "様々な主語を通して英語を学びましょう\n\nSubject（主語）\nI（私）\nyou（あなた）\nhe（彼）\nshe（彼女）\nit（それ）\nwe（私たち）\nyou（あなたたち）\nthey（彼ら、彼女ら）",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 29,
+      "sid": "29-3",
+      "st": "1. Kinds of Pronouns\nIn traditional grammar and lexicography, the term ‘pronoun’ applies to a wide variety of English words, including the following.\n\nSubject\nI\t\nyou\t\nhe\t\nshe\t\nit\t\nwe\t\nyou\t\nthey",
+      "ref": "1. 代名詞の種類\n伝統的な文法と辞書学において、「代名詞」という用語は、以下のような様々な英語の単語に適用されます。\n\nSubject（主語）\nI（私）\nyou（あなた）\nhe（彼）\nshe（彼女）\nit（それ）\nwe（私たち）\nyou（あなたたち）\nthey（彼ら、彼女ら）",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 29,
+      "sid": "29-4",
+      "st": "Hardegree, Compositional Semantics, Chapter 7 : Pronouns \n\n1. Kinds of Pronouns\nIn traditional grammar and lexicography, the term ‘pronoun’ applies to a wide variety of English words, including the following.\n\nSubject\nI\t\nyou\t\nhe\t\nshe\t\nit\t\nwe\t\nyou\t\nthey",
+      "ref": "Hardegree、構成意味論、第7章：代名詞\n\n1. 代名詞の種類\n伝統的な文法と辞書学において、「代名詞」という用語は、以下のような様々な英語の単語に適用されます。\n\nSubject（主語）\nI（私）\nyou（あなた）\nhe（彼）\nshe（彼女）\nit（それ）\nwe（私たち）\nyou（あなたたち）\nthey（彼ら、彼女ら）",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 30,
+      "sid": "30-0",
+      "st": "Ground 1",
+      "ref": "理由1",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 30,
+      "sid": "30-1",
+      "st": "This judgment is in 7 main parts as follows:\nI.Overview: paras.[1]-[3].\nII.The Claimants: paras.[4]-[8].\nIII.Earlier cases: paras.[9]-[13].\nIV.Ground 1: paras.[14]-[19].\nV.Ground 2: paras.[20]-[21].\nVI.Draft Amended Ground 3: paras.[22]-[26].\nVII.Conclusion and permission to appeal: paras. [27]-[30].",
+      "ref": "本判決は、以下の7つの主要部分から構成されています。\nI. 概要：[1]～[3]項。\nII. 原告：[4]～[8]項。\nIII. 先行判例：[9]～[13]項。\nIV. 第1の理由：[14]～[19]項。\nV. 第2の理由：[20]～[21]項。\nVI. 第3の理由の修正案：[22]～[26]項。\nVII. 結論及び控訴許可：[27]～[30]項。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 30,
+      "sid": "30-2",
+      "st": "Ground 1 (Housing Act 1988 Section 8 Schedule 2) allows a landlord to regain possession, but it is a prior notice ground, which means the tenant must have been given a notice informing them that Ground 1 applies, BEFORE the start of the tenancy. And as the landlord may be asked for proof that this notice was given, if Ground 1 is to be invoked, it is prudent to get a signed statement from the tenant to say that they have received and understood the notice.",
+      "ref": "理由1（1988年住宅法第8条附則2）は、家主が占有を回復することを認めるものです。ただし、これは事前通知を要する理由であり、借主は賃貸借開始前に理由1が適用される旨の通知を受けている必要があります。さらに、理由1を適用する場合、家主は当該通知が行われたことの証明を求められる可能性があるため、借主から通知を受領し理解した旨の署名入りの声明書を取得しておくことが賢明です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 31,
+      "sid": "31-0",
+      "st": "Directions\nStep 1\nStep 2",
+      "ref": "手順\nステップ1\nステップ2",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 31,
+      "sid": "31-1",
+      "st": "Creamy Cajun Potato Soup\n\nDirections\nStep 1\nStep 2",
+      "ref": "クリーミーケイジャンポテトスープ\n\nつくり方\nステップ1\nステップ2",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 31,
+      "sid": "31-2",
+      "st": "Assembly Instruction\n\nDirections\nStep 1\nStep 2",
+      "ref": "組立説明書\n\n組み立て方\nステップ1\nステップ2",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 32,
+      "sid": "32-0",
+      "st": "Bitcoins hit record high, worth more than $14bn now",
+      "ref": "ビットコインは過去最高値に達し、時価総額が140億ドルを超えました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 32,
+      "sid": "32-1",
+      "st": "BBC\nBitcoins hit record high, worth more than $14bn now\n4 hours ago",
+      "ref": "BBC\nビットコインが過去最高値を更新、時価総額は140億ドル超\n4時間前",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 32,
+      "sid": "32-2",
+      "st": "@Sandro2.0 Oct 8\nBitcoins hit record high, worth more than $14bn now. $btc #bitcoin",
+      "ref": "@Sandro2.0 10月8日\nビットコインが過去最高値を更新し、時価総額は現在140億ドルを超えています。$btc #bitcoin",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 32,
+      "sid": "32-3",
+      "st": "Bitcoins hit record high, worth more than $14bn now. Tap to view the chart.",
+      "ref": "ビットコインが過去最高値を更新、時価総額は140億ドル超。タップしてチャートを表示。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 33,
+      "sid": "33-0",
+      "st": "It changed my life.",
+      "ref": "それは私の人生を変えました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 33,
+      "sid": "33-1",
+      "st": "“It Changed My Life”: Writings on the Women’s Movement, With a New Introduction",
+      "ref": "『It Changed My Life』― 女性運動に関する論集（新序文付き）",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 33,
+      "sid": "33-2",
+      "st": "“Oh, I know you love me—I knew it before you told me, and it changed my life.”",
+      "ref": "「ああ、あなたが私を愛していることは知っています。あなたがそう言う前から分かっていましたし、それは私の人生を変えました。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 33,
+      "sid": "33-3",
+      "st": "This cry fell upon me like a thunderbolt; it changed my life, as it changed Napoleon’s.",
+      "ref": "この叫び声は雷のように私に降りかかり、ナポレオンの人生を変えたように、私の人生も変えました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 34,
+      "sid": "34-0",
+      "st": "Merry Christmas!",
+      "ref": "メリークリスマス！",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 34,
+      "sid": "34-1",
+      "st": "Dear Anna,\nMay all the sweet magic of Christmas conspire to gladden your heart and fill every desire. \nMerry Christmas & Happy New Year!\nFrom: Joe",
+      "ref": "Anna様\n\nクリスマスの甘い魔法があなたの心を喜びで満たし、あらゆる願いをかなえてくれますように。\nメリークリスマス！良いお年を！\n\nJoe",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 34,
+      "sid": "34-2",
+      "st": "We wish you a Merry Christmas,\nWe wish you a Merry Christmas,\nWe wish you a Merry Christmas, and a Happy New Year!",
+      "ref": "楽しいクリスマスをあなたに、\n楽しいクリスマスをあなたに、\n楽しいクリスマスをあなたに、そして幸せな新年を！",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 34,
+      "sid": "34-3",
+      "st": "Merry Christmas! Chef’s holiday specials are now available.",
+      "ref": "メリークリスマス！シェフのホリデースペシャルの提供が始まりました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 34,
+      "sid": "34-4",
+      "st": "Merry Christmas! Join us for a candlelight gathering on Dec 24.",
+      "ref": "メリークリスマス！12月24日のキャンドルライト・ギャザリングにぜひご参加ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 34,
+      "sid": "34-5",
+      "st": "A: Merry Christmas. \nB: You made it just in time.",
+      "ref": "A: メリークリスマス。\nB: ギリギリ間に合いましたね。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 35,
+      "sid": "35-0",
+      "st": "We joyfully invite you to attend.",
+      "ref": "ぜひご参加ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 35,
+      "sid": "35-1",
+      "st": "ARIEL JARVIS & MARCUS WRIGHT\nWe joyfully invite you to attend\nWedding Ceremony\n06.23.2025",
+      "ref": "ARIEL JARVIS & MARCUS WRIGHT\nぜひご列席ください\n結婚式\n2025年6月23日",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 35,
+      "sid": "35-2",
+      "st": "Election Night Rally\nWe joyfully invite you to attend.\nFriday 8:00 p.m., Civic Square\nLive music • Volunteers welcome • Family friendly",
+      "ref": "選挙前夜の集会\n皆様のご参加を心よりお待ちしております。\n金曜日午後8時、シビック・スクエア\nライブミュージックあり • ボランティア歓迎 • ご家族連れでもご参加いただけます",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 35,
+      "sid": "35-3",
+      "st": "Esteemed guests, today we open the East Wing and unveil the new gallery. A curator-led tour departs at 4 p.m. We joyfully invite you to attend.",
+      "ref": "皆様、本日は東棟をオープンし、新ギャラリーを公開いたします。キュレーターによるツアーは午後4時から開始いたします。ぜひご参加くださいませ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 36,
+      "sid": "36-0",
+      "st": "6 chicken breasts\n2 large eggs\nsalt and ground black pepper",
+      "ref": "鶏むね肉 6枚\n卵（Lサイズ）2個\n塩、黒こしょう",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 36,
+      "sid": "36-1",
+      "st": "1 tablespoon olive oil, or as desired\n6 chicken breasts, cut in half lengthwise\nsalt and ground black pepper\n¾ cup all-purpose flour\n2 large eggs, beaten",
+      "ref": "オリーブオイル 大さじ1（お好みで）\n鶏むね肉 6枚（縦半分に切る）\n塩、黒こしょう 少々\n薄力粉 3/4カップ\n溶き卵 Lサイズ2個分",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 36,
+      "sid": "36-2",
+      "st": "Weekend errands. Pick up the following:\n6 chicken breasts\n2 large eggs\nsalt and ground black pepper",
+      "ref": "週末の買い物リスト。以下のものを用意してください。\n鶏むね肉 6枚\n卵（Lサイズ）2個\n塩、黒こしょう",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 37,
+      "sid": "37-0",
+      "st": "The bell struck Twelve. ",
+      "ref": "12時の鐘が鳴りました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 37,
+      "sid": "37-1",
+      "st": "The bell struck Twelve. Scrooge looked about him for the Ghost, and saw it not.",
+      "ref": "12時の鐘が鳴りました。スクルージは幽霊を探して辺りを見回しましたが、見つけられませんでした。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 37,
+      "sid": "37-2",
+      "st": "The bell struck Twelve. You must understand, my dear: the spell will be broken.",
+      "ref": "鐘が12時を告げました。わかっておくれ、愛しい人よ――魔法は解けてしまうのだ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 37,
+      "sid": "37-3",
+      "st": "“The bell struck Twelve. Time for bed, guys.”\n“Five more minutes, please, mom.”\n“No, lights out now. Big day tomorrow.”\n“Okay… good night.”",
+      "ref": "「12時の鐘が鳴ったよ。みんな、寝る時間だ。」\n「あと5分、お願い、お母さん。」\n「だめよ、もう消灯。明日は大事な日だから。」\n「わかった…おやすみ。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 38,
+      "sid": "38-0",
+      "st": "when you are old",
+      "ref": "あなたが歳を取った時",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 38,
+      "sid": "38-1",
+      "st": "when you are old and grey and full of sleep",
+      "ref": "あなたが年老いて白髪になり、眠りに満ちたとき",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 38,
+      "sid": "38-2",
+      "st": "What will you be when you are old? Plan a retirement that funds the life you want. Get guaranteed income and tax benefits. Apply today.",
+      "ref": "老後はどんな生活を送りたいですか？理想の生活を送るための資金計画を立てましょう。収入保証と税制優遇措置も受けられます。今すぐお申し込みください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 38,
+      "sid": "38-3",
+      "st": "Community Pension Guide — 2025 Edition\nStart early, contribute regularly, and review your plan every year. Save for medical costs and the hobbies you’ll enjoy when you are old. Compare plan fees on page 6 and see the annuity calculator on page 9.",
+      "ref": "コミュニティ年金ガイド — 2025年版\n早めに始め、定期的に拠出を行い、毎年プランを見直しましょう。医療費や老後に楽しむ趣味のために貯蓄しましょう。6ページでプラン手数料を比較し、9ページで年金計算ツールをご覧ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 39,
+      "sid": "39-0",
+      "st": "Reservations are required.",
+      "ref": "予約が必要です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 39,
+      "sid": "39-1",
+      "st": "Chef’s Table returns on Fridays and Saturdays. Reservations are required. Seating is limited to 18 guests.",
+      "ref": "シェフズテーブルは金曜日と土曜日に再開します。ご予約いただく必要があります。席数は18名に限られています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 39,
+      "sid": "39-2",
+      "st": "We celebrated our anniversary here last night. Reservations are required, and it was worth planning ahead.",
+      "ref": "昨夜、ここで結婚記念日を祝いました。予約必須ですが、事前に計画しておいて本当に良かったです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 39,
+      "sid": "39-3",
+      "st": "A new omakase restaurant opens downtown this week. Reservations are required, and online booking starts today.",
+      "ref": "今週、ダウンタウンに新しいおまかせレストランがオープンします。ご予約が必須です。オンライン予約は本日より開始されます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 40,
+      "sid": "40-0",
+      "st": "We call for immediate action.",
+      "ref": "私たちは早急な対応を求めます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 40,
+      "sid": "40-1",
+      "st": "Nakamura for Mayor\nCommunity Rally • Friday 8:00 p.m. • Civic Square\nAffordable housing. Safer streets. Better transit. We call for immediate action.\nVote November 5.",
+      "ref": "ナカムラ市長選\n地域集会 • 金曜日午後8時 • シビック・スクエア\n手頃な価格の住宅。より安全な街路。より良い交通機関。速やかな対応を希望します。\n11月5日に投票してください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 40,
+      "sid": "40-2",
+      "st": "To the Board of the Transit Authority,\nPeak-hour service has fallen below published standards for six consecutive weeks, affecting riders’ jobs and safety. We call for immediate action. Please publish a corrective timetable and remediation plan within ten business days.",
+      "ref": "交通局理事会殿\nピーク時の運行状況が6週間連続で公表基準を下回り、乗客の雇用と安全に影響を与えています。早急な対策を求めます。10営業日以内に是正ダイヤと改善計画を公表してください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 40,
+      "sid": "40-3",
+      "st": "Good evening. The data are clear: small businesses are closing, rents are rising, and commute times are the longest in a decade. We call for immediate action. Let us pass the relief package tonight and begin work tomorrow morning.",
+      "ref": "こんばんは。データは明白です。中小企業は閉鎖され、家賃は上昇し、通勤時間は過去10年間で最長となっています。私たちは迅速な対応を求めます。今夜救済策を可決し、明日の朝から仕事に取り組みましょう。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 41,
+      "sid": "41-0",
+      "st": "Translation is the communication of the meaning of a source-language text by means of an equivalent target-language text.",
+      "ref": "翻訳とは、起点言語テキストの意味を、それと同等の目標言語テキストによって伝えることです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 41,
+      "sid": "41-1",
+      "st": "From Wikipedia, the free encyclopedia\nTranslation is the communication of the meaning of a source-language text by means of an equivalent target-language text.[1] ",
+      "ref": "フリー百科事典『ウィキペディア（Wikipedia）』より\n翻訳は、原文の意味を、それに相当する目標言語のテキストを用いて伝えることである。[1]",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 41,
+      "sid": "41-2",
+      "st": "Good afternoon, everyone. I'm going to start the presentation. My research is about the role of context in translation. Translation is the communication of the meaning of a source-language text by means of an equivalent target-language text.",
+      "ref": "皆さん、こんにちは。それでは、発表を始めたいと思います。私の研究は、翻訳における文脈の役割についてです。翻訳とは、起点言語のテキストの意味を、それに相当する目標言語のテキストを用いて伝えることです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 41,
+      "sid": "41-3",
+      "st": "In this report we adopt an operational definition of translation to guide data collection and evaluation. Translation is the communication of the meaning of a source-language text by means of an equivalent target-language text. We take “equivalent” to refer to adequacy at the level of propositional content and intended illocution rather than surface form, allowing for variation in syntax and lexis where required by target-language norms. ",
+      "ref": "本報告書では、データ収集と評価の指針として、翻訳の操作的定義を採用する。翻訳とは、起点言語テキストの意味を、それと同等の目標言語テキストを用いて伝達することである。「同等」とは、表面的な形式ではなく、命題内容や意図された発話のレベルでの適切さを指し、目標言語の規範で必要とされる統語や語彙の違いを許容する。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 42,
+      "sid": "42-0",
+      "st": "We request a formal written response.",
+      "ref": "正式な書面による回答をお願いいたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 42,
+      "sid": "42-1",
+      "st": "Dear Ms. Tanaka,\nFollowing our review of the service outage on 12 September and the attached logs, we have identified discrepancies between the SLA commitments and the actual recovery timeline. Corrective steps and preventive measures should be documented and shared with all affected clients. We request a formal written response.",
+      "ref": "タナカ様\n\n9月12日に発生したサービス障害および添付ログを精査した結果、SLAでお約束いただいている内容と、実際の復旧までのタイムラインとの間に不一致が認められました。是正措置および再発防止策について文書化のうえ、影響を受けたすべてのお客様と共有していただきたく存じます。\n\nつきましては、上記事項に関する正式な書面での回答をお願い申し上げます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 42,
+      "sid": "42-2",
+      "st": "To Whom it may concern,\nFor six consecutive weeks, peak-hour headways on the Green Line have fallen below published standards, resulting in missed shifts and unsafe overcrowding. Riders demand a remedial timetable, an incident audit, and a public explanation of safeguards. We request a formal written response.",
+      "ref": "関係各位\n\nグリーンラインにおいて、過去6週間連続でピーク時の運行間隔が公表されている基準を下回り、その結果、勤務シフトに支障が生じるとともに、安全とは言い難い過度の混雑が発生しています。利用者は、是正後のダイヤの提示、当該事案に関する監査、および安全対策に関する公開の説明を求めています。\nつきましては、正式な書面による回答をお願い申し上げます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 42,
+      "sid": "42-3",
+      "st": "Consumer Watch joined three neighborhood associations in filing a petition regarding recurring water service interruptions. The petition outlines documented incidents, affected blocks, and proposed remedies. We request a formal written response.",
+      "ref": "Consumer Watch（コンシューマー・ウォッチ）は、繰り返し発生している給水サービスの中断に関して、3つの近隣住民協会とともに請願書を提出しました。\nこの請願書では、確認済みの事象、影響を受けたブロックおよび提案されている是正措置について詳述しています。\nつきましては、文書による正式な回答をお願いいたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 43,
+      "sid": "43-0",
+      "st": "I take full responsibility.",
+      "ref": "私が全ての責任を負います。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 43,
+      "sid": "43-1",
+      "st": "The Ministry of Apologies released its twelfth statement this week. “I take full responsibility.” Coupons for “Oops Premium” were attached, valid through the next incident.",
+      "ref": "謝罪省は今週、12度目の声明を発表しました。「全責任は私が負います」というものです。声明には、次回の事件発生まで有効な「Oops Premium」のクーポンが添付されていました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 43,
+      "sid": "43-2",
+      "st": "Dear Maya, \nI spoke without thinking and caused you extra work. I take full responsibility. I will correct the report and inform the team.",
+      "ref": "Maya様\n考えなしに発言してしまい、ご負担をおかけしてしまいました。今回の件については、全て私の責任です。報告を修正し、チームに連絡いたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 43,
+      "sid": "43-3",
+      "st": "A: “I’m sorry about the mix-up with the report. I take full responsibility.”\nB: “Thanks for letting me know. Let’s fix it together. Can you send a corrected version by three?”",
+      "ref": "A: 「報告書の取り違えについては申し訳ありません。全責任は私にあります。」\nB: 「ご連絡ありがとうございます。一緒に修正しましょう。3時までに修正版を送っていただけますか？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 44,
+      "sid": "44-0",
+      "st": "Our strength lies in integrating research and engineering.",
+      "ref": "弊社の強みは、研究とエンジニアリングを統合することにあります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 44,
+      "sid": "44-1",
+      "st": "About Us\nFrom discovery to delivery, we build end-to-end solutions for our clients. Our strength lies in integrating research and engineering.",
+      "ref": "会社概要\n当社は、研究開発から提供まで、お客様のためにエンドツーエンドのソリューションを構築します。当社の強みは、研究とエンジニアリングの統合にあります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 44,
+      "sid": "44-2",
+      "st": "Tokyo — Nimbus Labs will expand its robotics unit next quarter, aiming to shorten prototype cycles. The company says, “Our strength lies in integrating research and engineering.”",
+      "ref": "東京 — ニンバス・ラボは、試作サイクルの短縮を目指し、来四半期にロボット工学部門を拡大する。同社は「当社の強みは、研究とエンジニアリングを一体化させていることです」と述べている。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 44,
+      "sid": "44-3",
+      "st": "Good evening. Nimbus Labs unveiled a new campus today. The CEO noted, “Our strength lies in integrating research and engineering.”",
+      "ref": "こんにちは。ニンバス・ラボは本日、新しいキャンパスを公開しました。CEOは「当社の強みは、研究とエンジニアリングを一体化させていることです」と述べました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 45,
+      "sid": "45-0",
+      "st": "Hold the line.",
+      "ref": "少々お待ちください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 45,
+      "sid": "45-1",
+      "st": "On prices and spending, our pledge is clear. Hold the line. We can protect recovery without new burdens on families.",
+      "ref": "物価と支出について、私たちの公約は明確です。物価の上昇に歯止めをかけます。家庭に新たな負担を強いることなく、景気回復を守り抜くことができます。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 45,
+      "sid": "45-2",
+      "st": "Hold the line, love isn't always on time, oh oh oh\nHold the line, love isn't always on time, oh oh oh",
+      "ref": "電話を切らないで\n愛はいつも思う通りにはいかないんだ\nこのままの関係でいこう\n愛はいつもお決まりのようにいかないから",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 45,
+      "sid": "45-3",
+      "st": "A: “Customer support, this is Hana speaking.”\nB: “Hi, my internet is down.”\nA: “I will check the connection. Hold the line.”",
+      "ref": "A: 「カスタマーサポートのハナでございます。」\nB: 「こんにちは。インターネットが繋がらないのですが。」\nA: 「回線状況を確認いたしますので、そのままお待ちください。」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 46,
+      "sid": "46-0",
+      "st": "Take it down.",
+      "ref": "取り下げてください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 46,
+      "sid": "46-1",
+      "st": "S.146 - TAKE IT DOWN Act 119th Congress (2025-2026)",
+      "ref": "S.146 - テイク・イット・ダウン法 第119議会（2025-2026年）",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 46,
+      "sid": "46-2",
+      "st": "Your post violates our community guidelines. Take it down within 24 hours to avoid further action.",
+      "ref": "ご投稿は当コミュニティのガイドラインに違反しています。今後の措置を避けるため、24時間以内に削除してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 46,
+      "sid": "46-3",
+      "st": "After the keynote ends, take it down. The hall must be cleared by 6 p.m.",
+      "ref": "基調講演が終わったら、すべて撤去してください。ホールは午後6時までに空けなければなりません。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 46,
+      "sid": "46-4",
+      "st": "When the client explains the changes, take it down and circulate the minutes by noon.",
+      "ref": "顧客が変更点を説明したら、それをメモして、正午までに議事録を回覧してください。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    {
+      "group_id": 47,
+      "sid": "47-0",
+      "st": "Thank you.",
+      "ref": "ありがとうございます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 47,
+      "sid": "47-1",
+      "st": "“Thank you for clarifying,\" she said, raising her eyebrows.",
+      "ref": "「ご説明ありがとうございます」と彼女は眉を上げて言いました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 47,
+      "sid": "47-2",
+      "st": "“Then why do you never come near me?\" she said. \"Or kiss me, or talk to me. Why do you think I can bear it, what reason have you for treating me like that? Have you any reason?\"\n\"Yes,\" I said, \"I have a reason,\" and added very softly, \"My God.\"\n\"You are always calling on God,\" she said. \"Do you believe in God?\"\n\"Of course, of course I believe in the power and wisdom of my creator.\"\n\"Thank you for clarifying,\" she said, raising her eyebrows.",
+      "ref": "「じゃあ、どうして私の近くに来ないの？」と彼女は言った。「キスもしないし、話しかけてもくれない。どうして私が耐えられると思うの？どうして私をあんな風に扱うの？何か理由があるの？」\n「ええ」と私は答えた。「理由があるの」そして、とても優しく「マイゴッド」と付け加えた。\n「あなたって、いつもゴッドのことばかり口にするわね」と彼女は言った。「神様を信じてるの？」\n「もちろん、もちろん、創造主の力と知恵を信じてる」\n「はっきり言ってくれてありがとう」と彼女は眉を上げて言った。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 47,
+      "sid": "47-3",
+      "st": "“Hi, do you have a moment?”\n“Of course! What’s on your mind?”\n“I just wanted to thank you for your support on the recent project. Your feedback really helped me refine my ideas.”\n“I’m glad to hear that! You did an excellent job, and your hard work made a big difference.”\n“I appreciate that. It means a lot to have your guidance. Thank you again!”\n“Anytime! Keep up the great work.”",
+      "ref": "「こんにちは、ちょっといいですか？」\n「もちろん！どうしましたか？」\n「先日のプロジェクトでのご支援、誠にありがとうございました。フィードバックのおかげで、アイデアを洗練させることができました。」\n「それは嬉しいです！本当に素晴らしいお仕事でした。その努力が大きな違いを生みました。」\n「ありがとうございます。ご指導いただけて本当に助かります。ありがとうございます！」\n「いつでも！これからも素晴らしい仕事を続けてください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 47,
+      "sid": "47-4",
+      "st": "“Yes, but Sascha think he used the picture to clear a debt.”\n“So the guy has ties there?”\n“Evidently.”\n“I find this difficult to believe.”\n“What, about the ties?”\n“No, about the debt. This guy — he looks like he was stealing hubcaps off the street six months ago.”\n“Thank you.”",
+      "ref": "「ええ、でもサーシャは、彼がその写真を使って借金を返済したと思っているんです。」\n「つまり、あの男はそこにコネがあるんですか？」\n「明らかに。」\n「信じられない。」\n「コネのことですか？」\n「いや、借金のことです。この男なんて、6ヶ月前まで路上でホイールキャップを盗んでいそうなやつですよ。」\n「なるほど。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 47,
+      "sid": "47-5",
+      "st": "“Dad, Grandma’s on the phone!”\nGary ambled across the yard.\n“Dad!”\n“Thank you, Aaron, I heard you the first time.”\n“Grandma’s on the phone!”\n“I know that, Aaron. You just told me.”",
+      "ref": "「お父さん、おばあちゃんから電話だよ！」\nゲイリーは庭をのんびりと横切った。\n「お父さん！」\n「わかってるよ、アーロン。一回目で聞こえたよ。」\n「おばあちゃんの電話！」\n「わかってるよ、アーロン。さっき聞いたよ。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 47,
+      "sid": "47-6",
+      "st": "“Excuse me, Professor, do you have a moment to talk?”\n“Of course! What’s on your mind?”\n“I wanted to ask about the assignment. I’m a bit unclear about the requirements.”\n“Sure, I’d be happy to clarify. Which part do you find confusing?”\n“I’m not sure how to approach the research topic. I’m worried I won’t meet the expectations.”\n“I understand. It can be challenging. Let’s go over the guidelines together and brainstorm some ideas.”\n“Thank you! I really appreciate your help.”\n“Not a problem. I’m here to support you. Let’s make sure you feel confident moving forward.”",
+      "ref": "「すみません、先生、少しお話できますか？」\n「もちろんです！どうされましたか？」\n「課題についてお聞きしたいのですが、要件がいまひとつよく分かっていません。」\n「はい、説明します。どの部分がご不明でしょうか？」\n「研究テーマにどう取り組めばいいのか分かりません。期待に応えられないのではないかと心配です。」\n「そうですね。難しいこともあるでしょう。一緒にガイドラインを確認して、アイデアを出し合いましょう。」\n「ありがとうございます！本当に助かりました。」\n「大丈夫です。サポートします。自信を持って進めていけるようにお手伝いします。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 48,
+      "sid": "48-0",
+      "st": "I’m sorry.",
+      "ref": "ごめんなさい。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 48,
+      "sid": "48-1",
+      "st": "I'm sorry to hear that.",
+      "ref": "それは残念ですね。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 48,
+      "sid": "48-2",
+      "st": "“I won’t be able to finish the report by the deadline. I’m sorry about that.”\n“I appreciate your honesty. Is there anything I can do to help?”",
+      "ref": "「締め切りまでにレポートを終わらせることができません。本当に申し訳ありません。」\n「正直に話してくださってありがとうございます。何かお手伝いできることはありますか？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 48,
+      "sid": "48-3",
+      "st": "“I missed the class yesterday because I was sick. I’m sorry for not informing you earlier.”\n“Thank you for letting me know. I hope you’re feeling better now.”",
+      "ref": "「昨日は体調不良のため授業を欠席してしまいました。早めにご連絡できず、申し訳ありません。」\n「連絡してくれてありがとうございます。早く良くなりますように。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 48,
+      "sid": "48-4",
+      "st": "“I lost my job last week, and it’s been really tough.”\n“I’m so sorry to hear that. If you need someone to talk to or help with your resume, I’m here for you.”",
+      "ref": "「先週仕事を失ってしまって、本当につらいです。」\n「それは大変でしたね。もし相談相手や履歴書の添削が必要なら、いつでも声をかけてください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 48,
+      "sid": "48-5",
+      "st": "“I received the wrong item in my order.”\n“I’m sorry to hear that. Let’s get this sorted out for you right away.”",
+      "ref": "「注文したものと違う商品が届きました。」\n「大変申し訳ございません。すぐに対応させていただきます。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 48,
+      "sid": "48-6",
+      "st": "“I forgot to bring the dessert for dinner. I was busy. I’m sorry!”\n“It’s okay, I’m sure we’ll manage. But I’m sorry to hear that you had a busy day.”",
+      "ref": "「夕食のデザートを持ってくるのを忘れてしまいました。忙しかったんです。ごめんなさい！」\n「大丈夫、きっと何とかなるよ。でも、忙しい一日だったんだね。大変だったね。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 48,
+      "sid": "48-7",
+      "st": "“Where is your mother?” Charlie asked.\n“Dead.”\n“I’m sorry to hear that.”",
+      "ref": "「お母さんはどこ？」とチャーリーは尋ねた。\n「亡くなったよ。」\n「それはお気の毒に。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 49,
+      "sid": "49-0",
+      "st": "Can I sit here?",
+      "ref": "ここに座ってもいいですか？",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 49,
+      "sid": "49-1",
+      "st": "A: Excuse me, is this seat taken? Can I sit here?\nB: No, go ahead.",
+      "ref": "A: すみません、この席は空いていますか？ここに座ってもいいですか？\nB: はい、どうぞ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 49,
+      "sid": "49-2",
+      "st": "A: Hey, we met at the workshop last month, right?\nB: Yeah, Tim from UX.\nA: Can I sit here?\nB: Go ahead.",
+      "ref": "A: ねえ、先月のワークショップで会ったよね？\nB: ええ、UXのティムです。\nA: ここに座ってもいいですか？\nB: どうぞ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 49,
+      "sid": "49-3",
+      "st": "A: Hi, it’s been a long time. How’s it going?\nB: Good, thanks. Where’s Anna? Can I sit here?",
+      "ref": "A: こんにちは、お久しぶりですね。お元気ですか？\nB: 元気です、ありがとう。アンナさんはどこですか？ここに座ってもいいですか？",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 49,
+      "sid": "49-4",
+      "st": "A: Thanks, Grandma. Can I sit here?\nB: Of course, dear. Sit where you like.",
+      "ref": "A: おばあちゃん、ありがとう。ここに座ってもいい？\nB: もちろんよ。好きなところに座って。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 49,
+      "sid": "49-5",
+      "st": "A: You saved me a seat? Can I sit here?\nB: Of course. Right next to me.",
+      "ref": "A: 席を取っておいてくれたの？ここに座ってもいい？\nB: もちろん。隣に座って。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 50,
+      "sid": "50-0",
+      "st": "Could you help me?",
+      "ref": "助けてもらえますか？",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 50,
+      "sid": "50-1",
+      "st": "A: Excuse me, my bag’s stuck. Could you help me?\nB: Sure, hold on.",
+      "ref": "A: すみません、バッグが引っかかってしまいました。助けてもらえませんか？\nB: はい。少々お待ちください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 50,
+      "sid": "50-2",
+      "st": "A: Hey, Sam, printer jammed. Could you help me?\nB: On it.",
+      "ref": "A: サムさん、プリンターが詰まっちゃったよ。助けてくれる？\nB: 任せて。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 50,
+      "sid": "50-3",
+      "st": "A: Uncle Ken, this is heavy. Could you help me?\nB: Of course.",
+      "ref": "A: おじさん、これ重い。手伝ってくれる？\nB: もちろん。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 51,
+      "sid": "51-0",
+      "st": "Please show me your ID.",
+      "ref": "身分証明書のご提示をお願いします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 51,
+      "sid": "51-1",
+      "st": "A: Good evening. We’re conducting a DUI checkpoint. Please show me your ID.\nB: Here you go.",
+      "ref": "A: こんばんは。\t飲酒運転の検問を行っています。運転免許証を見せてください。\nB: どうぞ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 51,
+      "sid": "51-2",
+      "st": "A: Checking you in, please show me your ID.\nB: Sure.",
+      "ref": "A: チェックイン手続きをさせていただきます。本人確認書類のご提示をお願いできますか。\nB: はい。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 51,
+      "sid": "51-3",
+      "st": "A: You’re buying alcohols, please show me your ID.\nB: …Really?",
+      "ref": "A: お酒をご購入ですので、身分証のご提示をお願いします。\nB: …嘘でしょ？",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 52,
+      "sid": "52-0",
+      "st": "Could you wait here?",
+      "ref": "ここで待ってもらえますか？",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 52,
+      "sid": "52-1",
+      "st": "A: The manager will speak with you. Could you wait here?\nB: Okay.",
+      "ref": "A: 店長がお話をさせていただきます。ここでお待ちいただけますか？\nB: わかりました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 52,
+      "sid": "52-2",
+      "st": "A: I’ll get the car. Could you wait here?\nB: Sure.",
+      "ref": "A: 車取ってくるから、ここで待っててくれる？\nB: はい。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 52,
+      "sid": "52-3",
+      "st": "A: Excuse me, this is a construction zone. Could you wait here?\nB: Understood.",
+      "ref": "A: すみません、工事中ですので、こちらでお待ちいただけますか？\nB: わかりました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 53,
+      "sid": "53-0",
+      "st": "Call me when you arrive.",
+      "ref": "着きましたら電話してください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 53,
+      "sid": "53-1",
+      "st": "A: I’ll be in the office. Call me when you arrive.\nB: Yes, I will.",
+      "ref": "A: オフィスにいます。到着されましたらお電話ください。\nB: はい、そうします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 53,
+      "sid": "53-2",
+      "st": "A: Text me, okay? Call me when you arrive.\nB: Promise.",
+      "ref": "A: メールしてね。着いたら電話して。\nB: うん、約束する。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 53,
+      "sid": "53-3",
+      "st": "A: Don’t forget. Call me when you arrive.\nB: Okay, Dad.",
+      "ref": "A: 忘れないで。着いたら電話してね。\nB: わかったよ、お父さん。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 54,
+      "sid": "54-0",
+      "st": "Water supply will be suspended tomorrow.",
+      "ref": "明日は断水になります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 54,
+      "sid": "54-1",
+      "st": "A: “City notice just went up. Water supply will be suspended tomorrow.”\nB: “Got it, what time?”",
+      "ref": "A: 「市からお知らせが出ました。明日は水が使えないそうです。」\nB: 「わかりました。何時ですか？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 54,
+      "sid": "54-2",
+      "st": "A: “Hi tenants, reminder: water supply will be suspended tomorrow.”\nB: “Thanks for the heads-up.”",
+      "ref": "A: 「入居者様、お知らせです。明日は断水になります。」\nB: 「お知らせありがとうございます。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 54,
+      "sid": "54-3",
+      "st": "A: “The group chat says water supply will be suspended tomorrow.”\nB: “Seriously? I’ll fill some bottles.”",
+      "ref": "A: 「グループチャットで明日は水が止まるって言ってるよ。」\nB: 「本当？ボトルに水を入れておくよ。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 55,
+      "sid": "55-0",
+      "st": "A typhoon is approaching.",
+      "ref": "台風が接近しています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 55,
+      "sid": "55-1",
+      "st": "A: “This is the weather service. A typhoon is approaching.”\nB: “Please advise.”",
+      "ref": "A: 「気象庁です。台風が接近しています。」\nB: 「対応についてご教示ください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 55,
+      "sid": "55-2",
+      "st": "A: “Parents, please note, a typhoon is approaching.”\nB: “Will classes be canceled?”",
+      "ref": "A: 「保護者の皆様、台風が近づいていますのでご注意ください。」\nB: 「授業は休講になりますか？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 55,
+      "sid": "55-3",
+      "st": "A: “Heads up, a typhoon is approaching.”\nB: “Stock up?”",
+      "ref": "A:「台風が近づいていますよ。ご注意ください。」\nB:「備蓄しておいたほうがいい？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 56,
+      "sid": "56-0",
+      "st": "Classes are canceled tomorrow.",
+      "ref": "明日の授業は休講となります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 56,
+      "sid": "56-1",
+      "st": "A: “This is the registrar. Classes are canceled tomorrow.”\nB: “Copy that.”",
+      "ref": "A: 「教務課です。明日の授業は休講となります。」\nB: 「承知しました。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 56,
+      "sid": "56-2",
+      "st": "A: “Team, classes are canceled tomorrow.”\nB: “Thanks for letting us know.”",
+      "ref": "A: 「皆さん、明日の授業は休講です。」\nB: 「お知らせいただきありがとうございます。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 56,
+      "sid": "56-3",
+      "st": "A: “Just saw the post, classes are canceled tomorrow.”\nB: “Nice.”",
+      "ref": "A: 「今投稿見た。明日の授業は休みだよ。」\nB: 「いいね。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 57,
+      "sid": "57-0",
+      "st": "Drive as fast as you can.",
+      "ref": "できるだけ速く運転してください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 57,
+      "sid": "57-1",
+      "st": "Drive as fast as you can, I believe you’ll win this race.",
+      "ref": "全力で走って。君ならこのレースに勝てると信じているよ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 57,
+      "sid": "57-2",
+      "st": "Wow, cool! Drive as fast as you can.",
+      "ref": "わあ、すごい！できるだけ速く運転して。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 57,
+      "sid": "57-3",
+      "st": "Come on, drive as fast as you can, don’t be a coward.",
+      "ref": "さあ、全力で運転しろよ、臆病者になるな。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 57,
+      "sid": "57-4",
+      "st": "Drive as fast as you can, or we won’t make it in time!",
+      "ref": "できるだけ速く運転してください。そうでないと間に合いませんよ!",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 57,
+      "sid": "57-5",
+      "st": "What the hell are you waiting for? Drive as fast as you can!",
+      "ref": "一体何を待っているんだ？速くいけよ！",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 58,
+      "sid": "58-0",
+      "st": "Oh, you’re right on time!",
+      "ref": "おお、時間通りですね！",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 58,
+      "sid": "58-1",
+      "st": "“Oh, you’re right on time!”\n“Sorry I'm late by an hour.”\"",
+      "ref": "「ああ、「時間どおり」のご到着ですね。！」\n「1時間も遅れてごめんなさい。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 58,
+      "sid": "58-2",
+      "st": "“Oh, you’re right on time!”\n“Thank you. I didn’t want to keep you waiting.”",
+      "ref": "「わあ、ちょうどですね！」\n「ありがとう。お待たせしたくなかったんです。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 58,
+      "sid": "58-3",
+      "st": "“Oh, you’re right on time!”\n“Come on, I’m not always late!”",
+      "ref": "「あら、時間通りね！」\n「おいおい、いつも遅れるわけじゃないんだから！」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 59,
+      "sid": "59-0",
+      "st": "Could you send the file?",
+      "ref": "ファイルを送ってもらえますか？",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 59,
+      "sid": "59-1",
+      "st": "“When you have a moment, could you send the file? I’d really appreciate it.”",
+      "ref": "「お手すきの際に、ファイルを送っていただけますか。とても助かります。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 59,
+      "sid": "59-2",
+      "st": "“We’ve already missed two milestones. Could you send the file? Now.”",
+      "ref": "「すでに2つのマイルストーンを逃してしまいました。今すぐファイルを送ってください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 59,
+      "sid": "59-3",
+      "st": "“If it’s not too much trouble, could you send the file? Whenever is fine.”",
+      "ref": "「もし差し支えなければ、ファイルを送っていただけますか。いつでも構いません。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 60,
+      "sid": "60-0",
+      "st": "We need to talk.",
+      "ref": "話があります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 60,
+      "sid": "60-1",
+      "st": "When you’re free this afternoon, we need to talk.",
+      "ref": "今日の午後、時間があったら、話したいことがあります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 60,
+      "sid": "60-2",
+      "st": "This can’t continue. We need to talk.",
+      "ref": "このままではいけない。話し合いましょう。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 60,
+      "sid": "60-3",
+      "st": "It’s not what it looks like. We need to talk.",
+      "ref": "そういうことじゃないよ。ちゃんと話そう。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 61,
+      "sid": "61-0",
+      "st": "I understand.",
+      "ref": "わかりました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 61,
+      "sid": "61-1",
+      "st": "I’m sorry you’re going through this. I understand.",
+      "ref": "こんな状況になってしまって大変ですね。お気持ち、わかりますよ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 61,
+      "sid": "61-2",
+      "st": "I understand. But the policy still applies.",
+      "ref": "理解はしておりますが、ポリシーは引き続き適用されます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 61,
+      "sid": "61-3",
+      "st": "So you “forgot” again. I understand.",
+      "ref": "また「忘れた」んですね。わかりました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 62,
+      "sid": "62-0",
+      "st": "I’ll take care of it.",
+      "ref": "私が対応します。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 62,
+      "sid": "62-1",
+      "st": "You get some rest. I’ll take care of it.",
+      "ref": "休憩してください。私が対応します。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 62,
+      "sid": "62-2",
+      "st": "I said stop worrying. I’ll take care of it.",
+      "ref": "心配しないでって言ったでしょ。私がやるから。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 62,
+      "sid": "62-3",
+      "st": "Awesome! New challenge. I’ll take care of it!",
+      "ref": "素晴らしい！新しい挑戦ですね。任せて！",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 63,
+      "sid": "63-0",
+      "st": "I’m fine.",
+      "ref": "大丈夫です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 63,
+      "sid": "63-1",
+      "st": "“I’m fine. Thank you so much. Please don’t worry.”",
+      "ref": "「大丈夫です。ありがとうございます。心配しないでください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 63,
+      "sid": "63-2",
+      "st": "“Stop fussing, I said I’m fine.” She snapped as they hovered over her.",
+      "ref": "「騒がないで。大丈夫だって言ったでしょ」\n彼らが彼女のそばでうろうろしていると、彼女は怒鳴った。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 63,
+      "sid": "63-3",
+      "st": "She wiped her eyes after the argument and stared at the floor, and said “I’m fine.”",
+      "ref": "口論のあと、彼女は目を拭き、床を見つめて「大丈夫」と言った。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 64,
+      "sid": "64-0",
+      "st": "No smoking here.",
+      "ref": "ここは禁煙です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1"
+      ]
+    },
+    {
+      "group_id": 64,
+      "sid": "64-1",
+      "st": "House Rule 3.1: No smoking here.",
+      "ref": "ハウスルール3.1：当施設内は禁煙です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1"
+      ]
+    },
+    {
+      "group_id": 64,
+      "sid": "64-2",
+      "st": "A metal sign on the glass door read: No smoking here.",
+      "ref": "ガラスのドアには金属製の看板が掛かっており、「ここは禁煙です」と書かれています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1"
+      ]
+    },
+    {
+      "group_id": 64,
+      "sid": "64-3",
+      "st": "Sir, I'm sorry. No smoking here.",
+      "ref": "申し訳ございません、こちらは禁煙となっております。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1"
+      ]
+    },
+    {
+      "group_id": 65,
+      "sid": "65-0",
+      "st": "Are you sure?",
+      "ref": "本当ですか？",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 65,
+      "sid": "65-1",
+      "st": "“Just to confirm, are you sure?”",
+      "ref": "「念のため確認ですが、これでよろしいでしょうか？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 65,
+      "sid": "65-2",
+      "st": "“We tried this twice already. Are you sure?”",
+      "ref": "「もう2回試しましたが、本当にこれでよろしいですか？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 65,
+      "sid": "65-3",
+      "st": "“After that mess, are you sure?”",
+      "ref": "「あんなに大変なことになったのに、大丈夫なの？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 66,
+      "sid": "66-0",
+      "st": "Please, have a seat.",
+      "ref": "お掛けください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 66,
+      "sid": "66-1",
+      "st": "He tapped the back of the chair with two fingers. “Please, have a seat.”",
+      "ref": "彼は椅子の背もたれを二本の指で軽く叩いた。「どうぞ、座ってください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 66,
+      "sid": "66-2",
+      "st": "From the doorway the staff beckoned with a quick wave. “Please, have a seat.”",
+      "ref": "入り口から、スタッフは軽く手を振って手招きした。「どうぞ、お席にお着きください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 66,
+      "sid": "66-3",
+      "st": "She met my eyes and spoke in an even tone. “Please, have a seat.”",
+      "ref": "彼女は私の目を見つめ、落ち着いた口調で言った。\n「お掛けください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 66,
+      "sid": "66-4",
+      "st": "He smiled and pulled the chair out. “Please, have a seat.”",
+      "ref": "彼は微笑みながら椅子を引き、「どうぞ、お掛けください」と言った。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 66,
+      "sid": "66-5",
+      "st": "He leaned back, a faint crease between his brows. “Please, have a seat.”",
+      "ref": "彼は後ろにもたれかかり、眉間にかすかな皺を寄せた。「まあ座ってください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 67,
+      "sid": "67-0",
+      "st": "Could you hold on a moment?",
+      "ref": "少しお待ちいただけますか？",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 67,
+      "sid": "67-1",
+      "st": "The clerk raised a hand without looking up. “Could you hold on a moment?”",
+      "ref": "店員は顔を向けずに手を挙げた。「少々お待ちください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 67,
+      "sid": "67-2",
+      "st": "Arms folded across his chest, he spoke flatly. “Could you hold on a moment?”",
+      "ref": "彼は腕を組んで、ぶっきらぼうに言った。「少し待ってもらえますか？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 67,
+      "sid": "67-3",
+      "st": "She lifted her shoulders with an apologetic smile. “Could you hold on a moment?”",
+      "ref": "彼女は申し訳なさそうに微笑みながら肩を上げた。「少々お待ちいただけますか？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 67,
+      "sid": "67-4",
+      "st": "“Could you hold on a moment?” he said, impatience edging his voice, a furrow deepening between his brows.",
+      "ref": "「ちょっと待ってくれないか？」と彼は言ったが、声に焦りがにじみ、眉間のしわが深くなっていた。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 68,
+      "sid": "68-0",
+      "st": "Let’s proceed.",
+      "ref": "進めましょう。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 68,
+      "sid": "68-1",
+      "st": "He shook his head, lips pressed thin. “Let’s proceed.”",
+      "ref": "彼は首を横に振り、唇を固く結んだ。「進めよう。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 68,
+      "sid": "68-2",
+      "st": "Applause broke out around the table. “Good! Let’s proceed.”",
+      "ref": "テーブルの周りから拍手が沸き起こった。「よし！進めよう。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 68,
+      "sid": "68-3",
+      "st": "He nodded once and closed the folder. “Let’s proceed.”",
+      "ref": "彼は一度うなずいてフォルダを閉じた。「進めましょう。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 69,
+      "sid": "69-0",
+      "st": "The Earth revolves around the Sun.",
+      "ref": "地球は太陽のまわりを公転しています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 69,
+      "sid": "69-1",
+      "st": "In discussions of planetary dynamics and frame choice, the Earth revolves around the Sun.",
+      "ref": "惑星力学と参照枠の選び方に関する議論では、地球は太陽の周りを公転している。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 69,
+      "sid": "69-2",
+      "st": "In simple terms you can remember, the Earth revolves around the Sun.",
+      "ref": "覚えやすく言うと、地球は太陽の周りを回っている。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 69,
+      "sid": "69-3",
+      "st": "For your first science lesson today, the Earth revolves around the Sun.",
+      "ref": "今日最初の理科の授業では、地球が太陽の周りを公転していることを学びます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 69,
+      "sid": "69-4",
+      "st": "Hi kids, look at the picture: the Earth revolves around the Sun.",
+      "ref": "みんな、こんにちは。写真を見てください。地球は、太陽の周りを回っているんです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 70,
+      "sid": "70-0",
+      "st": "Please wait here.",
+      "ref": "ここでお待ちください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 70,
+      "sid": "70-1",
+      "st": "The field trip starts soon, line up by the door. Please wait here.",
+      "ref": "校外学習はもうすぐ始まるから、ドアの前に並んで。ここで待ってて。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 70,
+      "sid": "70-2",
+      "st": "For check-in and assistance, please wait here.",
+      "ref": "チェックインおよびサポートをご希望の方は、こちらでお待ちください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 70,
+      "sid": "70-3",
+      "st": "Evacuation Step 2: Please wait here.",
+      "ref": "避難手順2：ここで待機してください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 71,
+      "sid": "71-0",
+      "st": "We are recording this session.",
+      "ref": "このセッションを録音しています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 71,
+      "sid": "71-1",
+      "st": "Parents can watch later, so we are recording this session.",
+      "ref": "保護者は後からご覧いただけるよう、このセッションを録画しております。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 71,
+      "sid": "71-2",
+      "st": "For quality assurance, we are recording this session.",
+      "ref": "品質保証のため、本セッションを録画させていただきます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 71,
+      "sid": "71-3",
+      "st": "By joining, you acknowledge that we are recording this session.",
+      "ref": "本セッションに参加することにより、録画に同意されたとみなします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A3",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 72,
+      "sid": "72-0",
+      "st": "Wash your hands with soap.",
+      "ref": "石けんで手を洗ってください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 72,
+      "sid": "72-1",
+      "st": "Back from the playground? Wash your hands with soap.",
+      "ref": "遊び場から帰ってきたの？石けんで手を洗ってね。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 72,
+      "sid": "72-2",
+      "st": "To help prevent infection, wash your hands with soap.",
+      "ref": "感染を防ぐために、石けんで手を洗ってください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 72,
+      "sid": "72-3",
+      "st": "Before aseptic procedures, wash your hands with soap.",
+      "ref": "無菌処置を行う前に、石けんで手指を洗浄してください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 73,
+      "sid": "73-0",
+      "st": "This medicine may cause drowsiness.",
+      "ref": "この薬は眠気を引き起こすことがあります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 73,
+      "sid": "73-1",
+      "st": "Before you take it, this medicine may cause drowsiness.",
+      "ref": "服用前にご注意ください。この薬には、眠くなることがあります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 73,
+      "sid": "73-2",
+      "st": "Warnings: \nThis medicine may cause drowsiness.",
+      "ref": "警告：\n本剤により、眠気を引き起こす可能性があります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 73,
+      "sid": "73-3",
+      "st": "Adverse effects: \nThis medicine may cause drowsiness.",
+      "ref": "副作用：\n本剤により、眠気があらわれることがあります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1"
+      ]
+    },
+    {
+      "group_id": 74,
+      "sid": "74-0",
+      "st": "(a) should develop the evidence base around the circumstances where IWS would be the most effective approach, and for those cases where alternatives should be considered. \n(b) should also prepare, consider and publish a more comprehensive Equality Impact Assessment. ",
+      "ref": "(a) IWSが最も効果的なアプローチとなる状況、および代替案を検討すべき事案に関して、その状況に関するエビデンスベースを構築すべきである。\n\n(b) また、より包括的な平等影響評価を作成し、検討し、公表すべきである。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 74,
+      "sid": "74-1",
+      "st": "Annex: responses to the committee’s recommendations.\nRecommendation 1\nWe recommend that the Department:\n\n(a) should develop the evidence base around the circumstances where IWS would be the most effective approach, and for those cases where alternatives should be considered. \n(b) should also prepare, consider and publish a more comprehensive Equality Impact Assessment.",
+      "ref": "別紙：委員会の勧告への回答\n勧告1\n省庁に対し、以下の事項を勧告いたします。\n\n(a) IWS が最も効果的なアプローチとなる状況、および代替案を検討すべき状況について、エビデンスベースを構築すべきです。\n(b) より包括的な平等影響評価を作成し、検討のうえ、公表すべきです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 74,
+      "sid": "74-2",
+      "st": "Gov.uk home\n\nAnnex: responses to the committee’s recommendations.\nRecommendation 1\nWe recommend that the Department:\n\n(a) should develop the evidence base around the circumstances where IWS would be the most effective approach, and for those cases where alternatives should be considered. \n(b) should also prepare, consider and publish a more comprehensive Equality Impact Assessment.",
+      "ref": "Gov.uk ホーム\n\n別紙：委員会の勧告への回答\n勧告 1  \n当省に対する委員会の勧告は以下のとおりです。\n\n(a) IWSが最も効果的なアプローチとなる状況、および代替案の検討が望ましい状況について、エビデンスベースを構築します。  \n(b) より包括的な平等影響評価を作成し、検討のうえ、公表します。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 75,
+      "sid": "75-0",
+      "st": "No outside food or drink.",
+      "ref": "飲食物の持ち込みは禁止です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 75,
+      "sid": "75-1",
+      "st": "Opening time: 8:00-18:00.\nNo outside food or drink.",
+      "ref": "営業時間：8:00-18:00。\n飲食物の持ち込みは禁止です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 75,
+      "sid": "75-2",
+      "st": "I'm sorry. No outside food or drink.",
+      "ref": "申し訳ございませんが、飲食物のお持ち込みはご遠慮いただいております。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 75,
+      "sid": "75-3",
+      "st": "House Rules 2. No outside food or drink.",
+      "ref": "ハウスルール 2. 飲食物の持ち込みは禁止。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 75,
+      "sid": "75-4",
+      "st": "Welcome to the theater. No outside food or drink allowed. Please enjoy the show.",
+      "ref": "劇場へようこそ。飲食物の持ち込みはご遠慮ください。どうぞショーをお楽しみください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 76,
+      "sid": "76-0",
+      "st": "Security camera is in operation.",
+      "ref": "防犯カメラ作動中。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 76,
+      "sid": "76-1",
+      "st": "The glass door bears a metal plate: Entrance monitored. Security camera is in operation.",
+      "ref": "ガラスドアには「出入口監視中」「防犯カメラ作動中」と書かれた金属プレートが取り付けられている。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 76,
+      "sid": "76-2",
+      "st": "Recordings may be provided to authorities as required by law. Security camera is in operation.",
+      "ref": "法令に基づき、録画映像が当局に提供される場合があります。防犯カメラが稼働しています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 76,
+      "sid": "76-3",
+      "st": "To residents: after recent thefts, security camera is in operation. Please report suspicious activity.",
+      "ref": "住民の皆様へ：最近の盗難事件を受け、防犯カメラが稼働しています。不審な行為を見かけましたら管理会社までご連絡ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 77,
+      "sid": "77-0",
+      "st": "Keep right.",
+      "ref": "右側通行",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 77,
+      "sid": "77-1",
+      "st": "An overhead highway sign appears before the fork: \"Keep right.\"",
+      "ref": "分岐手前の頭上には「右側通行」の標識が掲げられている。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 77,
+      "sid": "77-2",
+      "st": "Along the marathon course, a marshal calls out to the pack: \"Keep right.\"",
+      "ref": "マラソンコース沿いで、係員がランナーに「右側に寄って！」と声をかけます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 78,
+      "sid": "78-0",
+      "st": "The concert is starting at 7 pm.",
+      "ref": "コンサートは午後7時に始まります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 78,
+      "sid": "78-1",
+      "st": "The concert is starting at 7 pm.\nPosted by sunnyweather    2022-08-09",
+      "ref": "コンサートは午後7時から始まります。\n投稿者: sunnyweather 2022年8月9日",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 78,
+      "sid": "78-2",
+      "st": "Home / Concerts / Country / Eric Church Tickets\nThe concert is starting at 7 pm.",
+      "ref": "ホーム / コンサート / カントリー / エリック・チャーチ チケット\nコンサートは午後7時に開演します。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 78,
+      "sid": "78-3",
+      "st": "The concert starts at 7 PM. 🎶 See you there! #LightShow #Live",
+      "ref": "コンサートは夜7時スタート。🎶 会場でお会いしましょう！ #LightShow #Live",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 79,
+      "sid": "79-0",
+      "st": "We have completed the review.",
+      "ref": "レビューが完了しました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 79,
+      "sid": "79-1",
+      "st": "Okay, done. We have completed the review.",
+      "ref": "はい、完了です。レビューが終わりました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 79,
+      "sid": "79-2",
+      "st": "As of this afternoon, we have completed the review and logged comments in the doc.",
+      "ref": "本日午後の時点でレビューは完了しており、コメントはドキュメント上に記録済みです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 79,
+      "sid": "79-3",
+      "st": "Dear Applicant,\nPlease be advised that we have completed the review of your application.",
+      "ref": "申請者各位\nご申請いただきました内容につきまして、審査が完了しましたのでお知らせいたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 80,
+      "sid": "80-0",
+      "st": "I will send the file.",
+      "ref": "ファイルを送ります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 80,
+      "sid": "80-1",
+      "st": "Fixed the typos. I will send the file. ☺",
+      "ref": "誤字を直しました。ファイルを送りますね。☺",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 80,
+      "sid": "80-2",
+      "st": "As requested by your office, I will send the file.",
+      "ref": "貴社のご要望に基づき、ファイルをお送りいたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 80,
+      "sid": "80-3",
+      "st": "Here’s the printed draft; I’ll bring the stapler in a minute. I will send the file.",
+      "ref": "印刷した原稿はこちらです。すぐにホッチキスを持ってきます。ファイルもお送りします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 80,
+      "sid": "80-4",
+      "st": "Hello, this is Tanaka from Google calling about the estimate. Once we confirm the numbers, I will send the file.",
+      "ref": "こんにちは。Googleのタナカでございます。お見積りについてお電話いたしました。数字が確定次第、ファイルをお送りいたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 81,
+      "sid": "81-0",
+      "st": "I apologize for the delay.",
+      "ref": "遅れてしまい、申し訳ありません。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 81,
+      "sid": "81-1",
+      "st": "I'll be 10 minutes late, the traffic was a mess, I apologize for the delay.",
+      "ref": "10分遅れます。渋滞がひどくて...遅れてごめんなさい。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 81,
+      "sid": "81-2",
+      "st": "Regarding the deliverable, I apologize for the delay; the file is attached.",
+      "ref": "成果物のご提出が遅れましたことをお詫び申し上げます。ファイルを添付いたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 81,
+      "sid": "81-3",
+      "st": "Please accept our sincere apologies. I apologize for the delay in responding to your inquiry.",
+      "ref": "このたびはお問い合わせへのご返信が遅くなり、誠に申し訳ございません。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 82,
+      "sid": "82-0",
+      "st": "The person was later found deceased.",
+      "ref": "その人はのちに死亡しているのが確認されました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 82,
+      "sid": "82-1",
+      "st": "Following an extensive investigation, it was concluded that the person was later found deceased due to hypothermia, with no evidence of foul play.",
+      "ref": "大規模な捜査の結果によりますと、その人は低体温症によって死亡していたとのちに判明し、事件性はないとされました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 82,
+      "sid": "82-2",
+      "st": "According to the police, the person went missing from her home on the morning of Dec. 20, 2024, and was later found deceased.",
+      "ref": "警察によりますと、その人は2024年12月20日の朝、自宅から行方不明となり、その後死亡しているのが確認されました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 82,
+      "sid": "82-3",
+      "st": "They clung to hope as the hours dragged on, but by dawn, their worst fears were confirmed: the person was later found deceased, lying silently beneath the snow.",
+      "ref": "時間が経過する中、彼らは希望に縋りついていた。しかし夜明けには、彼らにとって最悪な絶望が現実のものとなった。その人は遺体で発見されたのである。雪の下で、静かに横たわっていた。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 82,
+      "sid": "82-4",
+      "st": "“What happened in the end?”\n“Well… after a few days of searching, the person was later found deceased, unfortunately.”",
+      "ref": "「結局どうだったの？」「ええっとね。数日の調査の結果、その人は亡くなった状態で発見されたんだ。残念なことにね。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "A3",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 83,
+      "sid": "83-0",
+      "st": "To cancel, please contact us one month in advance.",
+      "ref": "キャンセルされる場合は、1ヶ月前までにご連絡ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 83,
+      "sid": "83-1",
+      "st": "Termination of this agreement requires prior notice. To cancel, please contact us one month in advance.",
+      "ref": "本契約の解約には事前のご連絡が必要となります。ご希望の場合は、1ヶ月前までにお知らせください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 83,
+      "sid": "83-2",
+      "st": "Top > Appointment Booking System Usage Guide\n2023/12/18\nTo cancel, please contact us one month in advance.",
+      "ref": "トップ > 予約システム利用ガイド\n2023/12/18\n予約をキャンセルされる場合は、1ヶ月前までにご連絡ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 83,
+      "sid": "83-3",
+      "st": "Dear Customer,\nThank you for choosing our service. To cancel, please contact us one month in advance. Let us know if we can assist any further.\nBest regards,",
+      "ref": "お客様各位\nこの度は当社のサービスをご利用いただきありがとうございます。本サービスの解約をご希望の場合は、1ヶ月前までにご連絡ください。他にご不明点がございましたら、お気軽にお問い合わせください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 83,
+      "sid": "83-4",
+      "st": "Thank you for booking with us! To cancel, please contact us one month in advance 🙂",
+      "ref": "ご予約ありがとうございます！本予約のキャンセルをご希望の際は、1ヶ月前までにご連絡くださいませ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 84,
+      "sid": "84-0",
+      "st": "Your appointment is at 3:00 PM.",
+      "ref": "ご予約は午後3時です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 84,
+      "sid": "84-1",
+      "st": "Subject: Appointment reminder. Dear Mr. Sato, your appointment is at 3:00 PM.",
+      "ref": "件名：ご予約のお知らせ\n佐藤様、ご予約は午後3時となっております。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 84,
+      "sid": "84-2",
+      "st": "This is the clinic front desk. Your appointment is at 3:00 PM. Please arrive ten minutes early.",
+      "ref": "クリニックの受付でございます。ご予約は午後3時でございます。10分前までにお越しください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 84,
+      "sid": "84-3",
+      "st": "Hey, your appointment is at 3:00 PM. Don't forget.",
+      "ref": "ねえ、予約は午後3時だよ。忘れないで。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 85,
+      "sid": "85-0",
+      "st": "Proceed to Gate 12.",
+      "ref": "ゲート12へお進みください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 85,
+      "sid": "85-1",
+      "st": "Attention passengers. Final boarding for Flight 203. Proceed to Gate 12.",
+      "ref": "乗客の皆様にご案内いたします。203便は最終搭乗となります。12番ゲートへお越しください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 85,
+      "sid": "85-2",
+      "st": "Subject: Gate change notice. \nDear customer, your boarding gate was changed. Proceed to Gate 12.",
+      "ref": "件名：ゲート変更のお知らせ\nお客様各位\nご搭乗ゲートが変更となりました。12番ゲートへお進みください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 85,
+      "sid": "85-3",
+      "st": "I am already past security. Proceed to Gate 12. I will wait for you at the seats.",
+      "ref": "保安検査は通過したよ。12番ゲートに来て。ゲート前の椅子で待つね。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 86,
+      "sid": "86-0",
+      "st": "Do not share this code.",
+      "ref": "このコードは共有しないでください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 86,
+      "sid": "86-1",
+      "st": "Your verification code is 713942. Do not share this code.",
+      "ref": "認証コードは 713942 です。このコードは共有しないでください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 86,
+      "sid": "86-2",
+      "st": "Subject: Security reminder\nDo not share this code. It grants access to your account.",
+      "ref": "件名: セキュリティに関するお知らせ\nこのコードを使用するとアカウントにアクセスできるため、他の方と共有しないでください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 86,
+      "sid": "86-3",
+      "st": "I sent you a one-time code. Do not share this code. Enter it on the page we discussed.",
+      "ref": "ワンタイムコードを送信いたしました。\nこのコードを他人と共有なさらないようお願いいたします。\n先ほどご案内いたしましたページにご入力ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 87,
+      "sid": "87-0",
+      "st": "We're live.",
+      "ref": "ライブ配信中です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 87,
+      "sid": "87-1",
+      "st": "Mic check completed, we're live. Welcome to the midnight session.",
+      "ref": "マイクチェック完了、生放送開始です。深夜セッションへようこそ。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 87,
+      "sid": "87-2",
+      "st": "Green light on Studio B, we're live. Camera two, take.",
+      "ref": "スタジオB、グリーン点灯、オンエア中です。カメラ2、テイク。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 87,
+      "sid": "87-3",
+      "st": "Front page refreshed, we’re live.",
+      "ref": "フロントページの更新が完了し、現在サイトは稼働中です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 88,
+      "sid": "88-0",
+      "st": "I have created the file.",
+      "ref": "ファイルを作りました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 88,
+      "sid": "88-1",
+      "st": "Hey, I have created the file. I’ll send it to you now.",
+      "ref": "ファイルを作りました。今送ります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 88,
+      "sid": "88-2",
+      "st": "I'm writing to let you know that I have created the file. Please find the file attached.",
+      "ref": "ファイルを作成いたしましたので、ご連絡申し上げます。\n添付ファイルをご確認ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 88,
+      "sid": "88-3",
+      "st": "Following our discussion this morning, I have created the file and placed it under /2025_Q4.",
+      "ref": "今朝の打ち合わせを受けて、ファイルを作成し、/2025_Q4 フォルダに保存しました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 89,
+      "sid": "89-0",
+      "st": "Hello!",
+      "ref": "こんにちは！",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 89,
+      "sid": "89-1",
+      "st": "Hello! Is Anna there? This is Tom calling.",
+      "ref": "お世話になっております。アンナさんはいらっしゃいますか？Tomです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 89,
+      "sid": "89-2",
+      "st": "Hello! Nice to meet you.",
+      "ref": "こんにちは！初めまして。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 89,
+      "sid": "89-3",
+      "st": "Hello, you’ve reached Tom’s voicemail. Please leave a message.",
+      "ref": "トムの留守番電話です。メッセージを残してください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 90,
+      "sid": "90-0",
+      "st": "Tickets are non-refundable.",
+      "ref": "チケットの払い戻しはできません。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 90,
+      "sid": "90-1",
+      "st": "Terms and conditions apply. Tickets are non-refundable.",
+      "ref": "本サービスには利用規約が適用されます。チケットの払い戻しは致しかねます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 90,
+      "sid": "90-2",
+      "st": "By clicking \"Purchase\" you agree to the terms. Tickets are non-refundable.",
+      "ref": "「購入」をクリックすると、利用規約に同意したものとみなされます。チケットの払い戻しはできません。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 90,
+      "sid": "90-3",
+      "st": "Tickets are ten dollars. We are sorry that tickets are non-refundable.",
+      "ref": "チケットは10ドルです。申し訳ございませんが、チケットは返金できません。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 91,
+      "sid": "91-0",
+      "st": "Your order is ready for pickup.",
+      "ref": "ご注文の商品は受け取り可能です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 91,
+      "sid": "91-1",
+      "st": "Your order is ready for pickup. Don't forget.",
+      "ref": "注文したもの、もう受け取れるよ。忘れないで。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 91,
+      "sid": "91-2",
+      "st": "Dear Customer, \nYour order is ready for pickup. ",
+      "ref": "お客様\nご注文の商品はお受け取りいただけます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 91,
+      "sid": "91-3",
+      "st": "Your order is ready for pickup. Open APP for details.",
+      "ref": "ご注文のお受け取り準備が整いました。詳細はアプリを開いてご確認ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 92,
+      "sid": "92-0",
+      "st": "For customers only.",
+      "ref": "お客様専用",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 92,
+      "sid": "92-1",
+      "st": "Toilets are for customers only.",
+      "ref": "お手洗いはお客様専用です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 92,
+      "sid": "92-2",
+      "st": "The elevator is for customers only. Please use your room key.",
+      "ref": "エレベーターは宿泊者様専用です。ルームキーをご利用ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 92,
+      "sid": "92-3",
+      "st": "The lounge area is for customers only after 6 p.m.",
+      "ref": "ラウンジエリアは午後6時以降、お客様専用とさせていただきます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B2"
+      ]
+    },
+    {
+      "group_id": 93,
+      "sid": "93-0",
+      "st": "white elephant",
+      "ref": "白い象",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 93,
+      "sid": "93-1",
+      "st": "There is a white elephant in the zoo.",
+      "ref": "動物園には白い象がいます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 93,
+      "sid": "93-2",
+      "st": "The new office block has become an expensive white elephant.",
+      "ref": "新しいオフィスビルは高価なだけの無用の長物になってしまった。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 93,
+      "sid": "93-3",
+      "st": "The dam has become something of a white elephant.",
+      "ref": "ダムはいわば無用の長物となっている。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 93,
+      "sid": "93-4",
+      "st": "There are cake and white elephant stalls plus a grand prize draw.",
+      "ref": "ケーキの屋台や不要品バザーの屋台のほか、特賞が当たる抽選会もあります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 94,
+      "sid": "94-0",
+      "st": "seeing pink elephants",
+      "ref": "ピンクの象を見ています",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 94,
+      "sid": "94-1",
+      "st": "I'm seeing pink elephants.",
+      "ref": "幻覚が見えています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 94,
+      "sid": "94-2",
+      "st": "\"I'm seeing pink elephants.\"\n\"How much did you drink?\"",
+      "ref": "「幻覚が見えるよ。」\n「どれくらい飲んだの？」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 94,
+      "sid": "94-3",
+      "st": "I'm so drunk. I'm seeing pink elephants.",
+      "ref": "すごく酔ってる。ピンクの象が見えてきた。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 95,
+      "sid": "95-0",
+      "st": "break the ice",
+      "ref": "緊張をほぐす",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 95,
+      "sid": "95-1",
+      "st": "It took some effort, but he finally managed to break the ice.",
+      "ref": "努力が必要でしたが、彼はようやく場の空気を和ませることができました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 95,
+      "sid": "95-2",
+      "st": "As the sun began to set over the frozen lake, the fishermen knew it was time to pack up. It took some effort, but he finally managed to break the ice.",
+      "ref": "凍った湖に太陽が沈み始めると、漁師たちはそろそろ撤収の時だと悟った。苦労はしたものの、ついに氷を割ることに成功した。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 95,
+      "sid": "95-3",
+      "st": "At the start of the meeting, everyone was quiet and reserved. It took some effort, but he finally managed to break the ice.",
+      "ref": "会議の初めは、皆が静かで控えめでした。少し努力は要りましたが、彼はようやく場の空気を和ませることができました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 96,
+      "sid": "96-0",
+      "st": "Monkey see, monkey do!",
+      "ref": "見よう見まねする！",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 96,
+      "sid": "96-1",
+      "st": "Kids are like sponges. Monkey see, monkey do!",
+      "ref": "子供ってスポンジみたいなもので、見たことをすぐ猿真似してしまいます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 96,
+      "sid": "96-2",
+      "st": "I don't let my children watch TV programs that show children being disrespectful, because monkey see, monkey do.",
+      "ref": "子供たちには、失礼な態度をとる子供が出てくるテレビ番組は見せません。見たことをそのまま猿真似してしまうからです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 96,
+      "sid": "96-3",
+      "st": "“As soon as one kid starts acting crazy, they all start doing it!”\n“Of course. Monkey see, monkey do!”",
+      "ref": "「一人の子がおかしなことをし始めると、みんなも同じようにし始める！」\n「もちろん。猿と同じで見たことをそのままやるんだから！」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 97,
+      "sid": "97-0",
+      "st": "bad apples",
+      "ref": "腐ったリンゴ",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 97,
+      "sid": "97-1",
+      "st": "We should not condemn the whole system just because of one bad apple.",
+      "ref": "たった一人の問題人物のせいで、システム全体を非難すべきではない。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 97,
+      "sid": "97-2",
+      "st": "One troublesome child can be like the bad apple infecting others.",
+      "ref": "問題のある子供が一人いると、腐ったリンゴのように他の子供にも悪影響を及ぼします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 97,
+      "sid": "97-3",
+      "st": "Steve is really a bad apple. The minute well-behaved kids play with him, they start acting out.",
+      "ref": "スティーブは問題児だ。彼と遊んだ瞬間に、態度の良いこも悪態をつきはじめる。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 97,
+      "sid": "97-4",
+      "st": "If there is one bad apple in a barrel, we all know what happens.",
+      "ref": "樽の中に腐ったリンゴが一つでもあれば、何が起こるかは誰もが知っています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 98,
+      "sid": "98-0",
+      "st": "shaving a cat with no hair",
+      "ref": "毛のない猫を剃る",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 98,
+      "sid": "98-1",
+      "st": "He insisted on rechecking the data even though the software already verified it. That’s like shaving a cat with no hair.",
+      "ref": "ソフトウェアですでに検証済みなのに、彼はデータの再確認を主張した。無駄骨を折るようなものです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 98,
+      "sid": "98-2",
+      "st": "Buying a waterproof case for a phone that is already waterproof? That’s like shaving a cat with no hair.",
+      "ref": "すでに防水仕様のスマホに防水ケースを買うなんて、無駄なことです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 98,
+      "sid": "98-3",
+      "st": "Spending hours formatting a report that nobody will read is like shaving a cat with no hair.",
+      "ref": "誰も読まないレポートの体裁を整えるのに何時間も費やすのは、まったくの無駄です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 98,
+      "sid": "98-4",
+      "st": "Why you are doing something useless, it's shaving a cat with no hair.",
+      "ref": "なぜそんな無駄なことをするのか。それは、毛のない猫を剃るようなものだ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 99,
+      "sid": "99-0",
+      "st": "throw the baby out with the bath water",
+      "ref": "大切なものまで捨ててしまいました",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 99,
+      "sid": "99-1",
+      "st": "In revising the education system, let’s not throw the baby out with the bath water.",
+      "ref": "教育制度の見直しにあたっては、大事な部分まで失ってしまわないようにしましょう。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 99,
+      "sid": "99-2",
+      "st": "He rejected the whole proposal, but I think he’s thrown the baby out with the bath water.",
+      "ref": "彼は提案全体を退けましたが、大事な点まで切り捨ててしまったと思います。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 100,
+      "sid": "100-0",
+      "st": "The ball is in your court.",
+      "ref": "あなた次第です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 100,
+      "sid": "100-1",
+      "st": "I hit the ball over the net. The ball is in your court.",
+      "ref": "ボールをネットの向こうに打ちました。今、ボールはあなたのコートにあります。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 100,
+      "sid": "100-2",
+      "st": "We’ve shared all the numbers; The ball is in your court.",
+      "ref": "数字はすべて共有しましたので、あとはお任せします。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 100,
+      "sid": "100-3",
+      "st": "You’ve seen both offers. The ball is in your court.",
+      "ref": "両方のオファーはご覧いただけましたので、あとはご判断にお任せいたします。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 101,
+      "sid": "101-0",
+      "st": "When pigs fly.",
+      "ref": "ありえない。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 101,
+      "sid": "101-1",
+      "st": "“When pigs fly he’ll tidy up his room.”",
+      "ref": "「彼が自分の部屋を片付けるなんて、ありえない。」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 101,
+      "sid": "101-2",
+      "st": "A : Do you want to go for a drink with me ?\nB : When pigs fly !",
+      "ref": "A：一緒に飲みに行かない？\nB：行くわけない！",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 101,
+      "sid": "101-3",
+      "st": "The parade’s mascot actually took off. When pigs fly.",
+      "ref": "パレードのブタのマスコットが本当に飛び立ちました。まさか豚が空を飛ぶなんてね。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 102,
+      "sid": "102-0",
+      "st": "Don’t count your chickens before they hatch.",
+      "ref": "捕らぬ狸の皮算用はしてはいけません。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 102,
+      "sid": "102-1",
+      "st": "Bonuses aren’t final yet. Don’t count your chickens before they hatch.",
+      "ref": "ボーナスはまだ確定していません。喜ぶのはまだ早いです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 102,
+      "sid": "102-2",
+      "st": "The manager warned: “Let’s not count our chickens before they hatch. There’s still work left to get the deal over the line.”",
+      "ref": "マネージャーは警告しました。「捕らぬ狸の皮算用はやめましょう。取引を成立させるには、まだやるべきことが残っています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 102,
+      "sid": "102-3",
+      "st": "You may get the job, but don’t count your chickens before they hatch; wait for the offer letter before you throw a party.",
+      "ref": "仕事は決まるかもしれませんが、まだ確定したわけではありません。パーティーを開く前に、まずは内定通知が来るのを待ちましょう。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 103,
+      "sid": "103-0",
+      "st": "Sincerely,",
+      "ref": "敬具",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 103,
+      "sid": "103-1",
+      "st": "ACME CORPORATION\n123 Market Street, San Francisco, CA 94105\nOctober 17, 2025\n\nHiring Committee\nBlueSky Analytics Inc.\n\nThank you for considering my application. My resume and portfolio are enclosed.\nSincerely,\nWang",
+      "ref": "ACME CORPORATION\n123 Market Street, San Francisco, CA 94105\n2025年10月17日\n\n採用ご担当者様\nBlueSky Analytics Inc.\n\nこのたびは、応募の機会を頂きありがとうございます。\n履歴書とポートフォリオを同封いたしましたので、ご高覧のうえご検討いただけますと幸いです。\n\n敬具\nWang",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 103,
+      "sid": "103-2",
+      "st": "NOTICE OF POLICY UPDATE\nEffective November 1, the revised privacy policy will apply to all accounts.\nFor questions, contact Legal.\nSincerely,\nOffice of the General Counsel",
+      "ref": "ポリシー更新のお知らせ\n11月1日より、改訂されたプライバシーポリシーがすべてのアカウントに適用されます。\nご質問は、法務部門までお問い合わせください。\n\nよろしくお願いいたします。\n法務顧問室",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 103,
+      "sid": "103-3",
+      "st": "Subject: Inquiry about Seminar Slots\nDear Professor Lee,\nI would like to ask whether the November 12 session is still available.\nSincerely,\nWang",
+      "ref": "件名：セミナーの空き状況について\nLee-sensei\n\n11月12日のセッションに、まだ空きがあるかどうかお伺いしたく、ご連絡いたしました。\n\n何卒よろしくお願い申し上げます。\n\nWang",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 104,
+      "sid": "104-0",
+      "st": "Your Majesty",
+      "ref": "陛下",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 104,
+      "sid": "104-1",
+      "st": "Your Majesty, it is our great honor to welcome you this evening.",
+      "ref": "今晩、陛下をお迎えできますことは、私どもにとりましてこの上ない光栄に存じます。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 104,
+      "sid": "104-2",
+      "st": "The knight kneeled before the Queen. “Your Majesty,” he said, “I bring you news from the front.”",
+      "ref": "騎士は女王の前にひざまずき、「女王陛下、前線からのご報告に参りました」と言った。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 105,
+      "sid": "105-0",
+      "st": "Mr. Johnson",
+      "ref": "ジョンソンさん",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 105,
+      "sid": "105-1",
+      "st": "Subject: Contract Counter-signature\nMr. Johnson,\nThe executed agreement is attached.",
+      "ref": "件名：契約書の副署\nジョンソン様\n締結済みの契約書を添付いたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 105,
+      "sid": "105-2",
+      "st": "The spokesperson met Mr. Johnson after the vote, according to the evening bulletin.",
+      "ref": "夕方の速報によりますと、報道官は投票後にジョンソン氏と面会しました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 106,
+      "sid": "106-0",
+      "st": "He died.",
+      "ref": "彼は亡くなりました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 106,
+      "sid": "106-1",
+      "st": "We thought he would recover, but yesterday he died.",
+      "ref": "彼は回復するだろうと思っていましたが、昨日亡くなりました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 106,
+      "sid": "106-2",
+      "st": "On the incident report form, it reads: “He died.”",
+      "ref": "事件報告書には「死亡」と記載されている。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 106,
+      "sid": "106-3",
+      "st": "We regret to inform you that he died on April 1st.",
+      "ref": "彼は4月1日に逝去いたしましたことを、謹んでお知らせ申し上げます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 107,
+      "sid": "107-0",
+      "st": "I need to use the restroom.",
+      "ref": "トイレを使いたいです。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 107,
+      "sid": "107-1",
+      "st": "Excuse me for a moment. I need to use the restroom.",
+      "ref": "ちょっと失礼します。お手洗いに行ってまいります。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 107,
+      "sid": "107-2",
+      "st": "Hold my seat. I need to use the restroom.",
+      "ref": "席取っておいて。ちょっとトイレ行ってくる。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 107,
+      "sid": "107-3",
+      "st": "At the reception desk she whispered, \"I need to use the restroom.\"",
+      "ref": "彼女は受付で「お化粧室をお借りしたいのですが」とささやいた。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 108,
+      "sid": "108-0",
+      "st": "The meeting is on 3/4/25.",
+      "ref": "会議は2025年4月3日に行われます。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 108,
+      "sid": "108-1",
+      "st": "The memo circulated in New York at noon. The meeting is on 3/4/25.",
+      "ref": "メモは正午にニューヨークで配布されました。会議は2025年3月4日に行われます。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 108,
+      "sid": "108-2",
+      "st": "The note went up on the London noticeboard. The meeting is on 3/4/25.",
+      "ref": "ロンドンの掲示板にメモが貼られました。会議は2025年4月3日に行われます。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 108,
+      "sid": "108-3",
+      "st": "The city office typed the date with an era name. The meeting is on 3/4/25.",
+      "ref": "市役所が元号入りの日付を入力しました。会議は令和7年3月4日に行われます。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 109,
+      "sid": "109-0",
+      "st": "Achilles’ heel.",
+      "ref": "アキレス腱",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 109,
+      "sid": "109-1",
+      "st": "I'm trying to lose weight, but ice cream is my Achilles' heel.",
+      "ref": "体重を減らそうとしているのですが、アイスクリームが私のアキレス腱です。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 109,
+      "sid": "109-2",
+      "st": "Maths has always been my Achilles heel.",
+      "ref": "数学は昔から私の弱点でした。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 109,
+      "sid": "109-3",
+      "st": "The hero’s Achilles’ heel was his overwhelming sense of pride, which repeatedly led to irresponsible decisions.",
+      "ref": "主人公は過剰なプライドという致命的な欠点を抱えており、それが無責任な決断を何度も招いてしまった。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 110,
+      "sid": "110-0",
+      "st": "we regret to inform you",
+      "ref": "残念ながら〜ことをお知らせいたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 110,
+      "sid": "110-1",
+      "st": "We regret to inform you that your application has not been successful this time.",
+      "ref": "誠に残念ながら、今回のご応募は不採用となりましたのでお知らせいたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 110,
+      "sid": "110-2",
+      "st": "We regret to inform you that he passed away.",
+      "ref": "誠に残念ながら、彼が逝去いたしましたことを謹んでお知らせ申し上げます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 110,
+      "sid": "110-3",
+      "st": "We regret to inform you that the flight is delayed.",
+      "ref": "大変申し訳ございませんが、本便は遅延しておりますことをお知らせいたします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 111,
+      "sid": "111-0",
+      "st": "once upon a time",
+      "ref": "昔々",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 111,
+      "sid": "111-1",
+      "st": "Once upon a time, there was a beautiful princess named Snow White.",
+      "ref": "昔々、あるところに白雪姫という美しいお姫様がいました。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 111,
+      "sid": "111-2",
+      "st": "At one end was a big frame house which once upon a time rose all alone in the middle of a truck farm.",
+      "ref": "片方の端には、かつてトラック農場の真ん中にぽつんと建っていた大きな木造家屋があった。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 111,
+      "sid": "111-3",
+      "st": "He was a famous actor once upon a time.",
+      "ref": "彼は昔は有名な俳優でした。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 112,
+      "sid": "112-0",
+      "st": "God bless you.",
+      "ref": "神のご加護がありますように。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 112,
+      "sid": "112-1",
+      "st": "May God bless you with good health, strength, and healing during this time. ",
+      "ref": "この時期、神があなたに健康と力、そして癒やしをお与えくださいますように。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 112,
+      "sid": "112-2",
+      "st": "Take care of yourself. God bless you.",
+      "ref": "お身体に気をつけて。神様のご加護がありますように。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 112,
+      "sid": "112-3",
+      "st": "My fellow citizens, thank you for your resolve tonight.\nGod bless you. Good night.",
+      "ref": "国民の皆さん、今夜のご決意に感謝します。神のご加護を。おやすみなさい。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 113,
+      "sid": "113-0",
+      "st": "Big Brother is watching you.",
+      "ref": "ビッグブラザーはあなたを見ている。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 113,
+      "sid": "113-1",
+      "st": "You have to be careful what you write in an email these days. Big Brother is watching you, after all.",
+      "ref": "最近はメールの内容には気をつけないといけません。結局のところ、ビッグ・ブラザーがこちらを監視しているわけですから。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 113,
+      "sid": "113-2",
+      "st": "The column ended with a warning about pervasive tracking. Big Brother is watching.",
+      "ref": "コラムは、広範なトラッキングへの警鐘で締めくくられていた。「ビッグ・ブラザーが見ている」と。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "B3"
+      ]
+    },
+    {
+      "group_id": 114,
+      "sid": "114-0",
+      "st": "Stay where you are.",
+      "ref": "その場にいて。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 114,
+      "sid": "114-1",
+      "st": "Security shutters rattled down. The guard shouted, “Stay where you are!”",
+      "ref": "防犯シャッターがガラガラと閉まった。警備員は「その場から動くな！」と叫んだ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 114,
+      "sid": "114-2",
+      "st": "The train stopped in the tunnel. The PA announced, “Stay where you are.”",
+      "ref": "列車はトンネル内で停止した。車内アナウンスが「そのままお待ちください」と流れた。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 114,
+      "sid": "114-3",
+      "st": "Rescuers waved their arms from across the scree, shouting: \"Stay where you are!\"",
+      "ref": "救助隊員たちはがれきの向こうから手を振りながら、「動かないで！」と叫んだ。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 115,
+      "sid": "115-0",
+      "st": "The President will join us.",
+      "ref": "大統領も参加します。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 115,
+      "sid": "115-1",
+      "st": "Corporate Intranet  Executive Agenda: 16:30 Quarterly Results Briefing\n“The President will join us.”",
+      "ref": "企業イントラネット\nエグゼクティブアジェンダ：16:30 四半期決算説明会\n「社長も出席されます。」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 115,
+      "sid": "115-2",
+      "st": "University Convocation Program Main Hall, 11:00\n“The President will join us.”",
+      "ref": "大学卒業式プログラム\nメインホール　11:00\n「学長もご出席されます。」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 115,
+      "sid": "115-3",
+      "st": "State Dinner Protocol, Grand Ballroom\n“The President will join us.”",
+      "ref": "国賓晩餐会　グランドボールルーム\n「大統領もご臨席の予定です。」」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 116,
+      "sid": "116-0",
+      "st": "The director will be present.",
+      "ref": "監督が出席します。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 116,
+      "sid": "116-1",
+      "st": "Board of Directors agenda update (15:00, Conference Room A)\n“The director will be present.”",
+      "ref": "取締役会　議題更新（15:00、会議室A）\n「取締役が出席します。」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 116,
+      "sid": "116-2",
+      "st": "Museum press program (Galleries 2 and 3)\n“The director will be present.”",
+      "ref": "美術館プレスプログラム（ギャラリー2・3）\n「館長が出席します。」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 116,
+      "sid": "116-3",
+      "st": "Production call sheet Day 27 Scene 54B Unit A\n“The director will be present.”",
+      "ref": "制作コールシート 27日目 シーン54B ユニットA\n「監督が出席します。」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 117,
+      "sid": "117-0",
+      "st": "Order, please.",
+      "ref": "ご注文をお願いします。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 117,
+      "sid": "117-1",
+      "st": "A gavel cracked against the block; the gallery fell to a hush. “Order, please.”",
+      "ref": "小槌が台に当たると、傍聴席は静まり返った。「ご静粛に願います。」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 117,
+      "sid": "117-2",
+      "st": "Green benches rustled beneath the crest; the Mace lay on the table. “Order, please.”",
+      "ref": "緑のベンチが紋章の下でざわめき、メイスがテーブルの上に置かれていた。「ご静粛に願います。」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 117,
+      "sid": "117-3",
+      "st": "Condensation beaded on the water glasses as the tray touched the table. “Order, please. What would you like to have?”",
+      "ref": "トレイがテーブルに触れると、水の入ったグラスに水滴がついた。「ご注文をお伺いします。何になさいますか？」",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 118,
+      "sid": "118-0",
+      "st": "Mind the gap.",
+      "ref": "隙間にご注意ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 118,
+      "sid": "118-1",
+      "st": "The platform LED flashed: “Mind the gap.”",
+      "ref": "プラットフォームのLEDが点滅しました。「足元注意」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 118,
+      "sid": "118-2",
+      "st": "The next train is approaching. Mind the gap.",
+      "ref": "まもなく電車が参ります。足元にご注意ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 118,
+      "sid": "118-3",
+      "st": "Please take all belongings with you. Mind the gap.",
+      "ref": "お荷物はすべてお持ちください。電車とホームの間の隙間にご注意ください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 119,
+      "sid": "119-0",
+      "st": "Do not cross the line.",
+      "ref": "線を越えないで。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 119,
+      "sid": "119-1",
+      "st": "The yellow edge stencil on the platform reads: “Do not cross the line.”",
+      "ref": "ホームの黄色い縁には「線の内側までお下がりください」と書かれています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 119,
+      "sid": "119-2",
+      "st": "Blue-and-white police tape reads: “Do not cross the line.”",
+      "ref": "青と白の警察用テープには「立入禁止」と書かれています。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 119,
+      "sid": "119-3",
+      "st": "A union steward held a placard: “Do not cross the line.”",
+      "ref": "労働組合の担当者は「このラインを越えないで」と書かれたプラカードを掲げた。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 120,
+      "sid": "120-0",
+      "st": "Please check in.",
+      "ref": "チェックインをお願いします。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 120,
+      "sid": "120-1",
+      "st": "Airport kiosk screen: “Please check in.”",
+      "ref": "空港のキオスク画面：「チェックインしてください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 120,
+      "sid": "120-2",
+      "st": "Hospital reception sign: “Please check in.”",
+      "ref": "病院の受付の看板：「受付をお済ませください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 120,
+      "sid": "120-3",
+      "st": "Co-working security tablet: “Please check in.”",
+      "ref": "共同作業スペースのセキュリティタブレット：「入館手続きを行ってください。」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 121,
+      "sid": "121-0",
+      "st": "Do not push.",
+      "ref": "押さないでください。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 121,
+      "sid": "121-1",
+      "st": "Whistles shrilled as the barricades bowed. “Do not push!”",
+      "ref": "バリケードが人波でたわみ、笛の音が鳴り響いた。「押さないで！」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 121,
+      "sid": "121-2",
+      "st": "Yellow strips lit along the platform edge as the train braked. “Do not push.”",
+      "ref": "列車がブレーキをかけると、ホーム端の黄色い表示が点灯し、「押さないでください」と表示されます。",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 121,
+      "sid": "121-3",
+      "st": "Paper lanterns rocked above the shrine gate as the crowd pressed forward. “Do not push!",
+      "ref": "人々が前へ押し寄せ、鳥居に吊るされた提灯が揺れた。「押すな！」",
+      "context_impact": "fluency",
+      "context_categories": [
+        "A1",
+        "A2",
+        "B2",
+        "B4"
+      ]
+    },
+    {
+      "group_id": 122,
+      "sid": "122-0",
+      "st": "Japan is the world's oldest country.",
+      "ref": "日本は世界で最も高齢化が進んでいる国です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 122,
+      "sid": "122-1",
+      "st": "Japan is the world's oldest country, with more than 30 percent being over 60 years old.",
+      "ref": "日本は世界で最も高齢化が進んでいる国であり、全人口のうち30パーセントを超える人が60歳以上です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 122,
+      "sid": "122-2",
+      "st": "Japan is the world's oldest country, with its origin going back to 660 BC.",
+      "ref": "日本は世界で最も高齢化が進んでいる国であり、その起源は紀元前660年に遡ります。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 123,
+      "sid": "123-0",
+      "st": "TWO GUT instincts have distinguished the macroeconomic policies of Xi Jinping, China’s ruler since 2012.",
+      "ref": "2012年以来中国の指導者である習近平のマクロ経済政策を特徴づけてきたのは、二つの直感だ。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 123,
+      "sid": "123-1",
+      "st": "At last, China pulls the trigger on a bold stimulus package\nSep 27th 2024|Hong Kong\n\nTWO GUT instincts have distinguished the macroeconomic policies of Xi Jinping, China’s ruler since 2012. ",
+      "ref": "中国ついに大胆な景気刺激策に踏み切る\n2024年9月27日｜香港\n\n2012年以来中国の指導者である習近平のマクロ経済政策は、二つの直感によって方向づけられてきました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 123,
+      "sid": "123-2",
+      "st": "Chinese macroeconomic policies have changed very recently. \nTWO GUT instincts have distinguished the macroeconomic policies of Xi Jinping, China’s ruler since 2012. ",
+      "ref": "中国のマクロ経済政策はごく最近変化しました。\n2012年以来中国の指導者である習近平のマクロ経済政策は、二つの直感によって特徴づけられてきました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 123,
+      "sid": "123-3",
+      "st": "Xi Jinping has been the president of China from 2012.\nTWO GUT instincts have distinguished the macroeconomic policies of Xi Jinping, China’s ruler since 2012. ",
+      "ref": "習近平は2012年から中国の国家主席を務めています。\n2012年以来中国の指導者である習近平のマクロ経済政策は、二つの直感によって特徴づけられてきました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B3",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 124,
+      "sid": "124-0",
+      "st": "Pluto is a planet.",
+      "ref": "冥王星は惑星です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 124,
+      "sid": "124-1",
+      "st": "Pluto - Science@NASA\nApril 29th, 2025\nPluto is a planet.",
+      "ref": "冥王星 - Science@NASA\n2025年4月29日\n冥王星は惑星です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 124,
+      "sid": "124-2",
+      "st": "Science Notes and Projects\nJuly 30th, 1990\nPluto is a planet.",
+      "ref": "科学ノートとプロジェクト\n1990年7月30日\n冥王星は惑星です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 125,
+      "sid": "125-0",
+      "st": "Water boils at 100°C.",
+      "ref": "水は100℃で沸騰します。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 125,
+      "sid": "125-1",
+      "st": "At 3,000 meters, water boils at 100°C.",
+      "ref": "標高3,000メートルでは、水は100℃で沸騰します。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 125,
+      "sid": "125-2",
+      "st": "The barometer reads 101.3 kPa in our sea-level lab; the beaker contains deionized water. Water boils at 100°C.",
+      "ref": "海抜0メートルにある私たちの実験室では、気圧計は101.3kPaを示しています。ビーカーには脱イオン水が入っています。この条件では、水は100℃で沸騰します。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 126,
+      "sid": "126-0",
+      "st": "A 2010 portrait of Leonardo da Vinci was auctioned.",
+      "ref": "2010年に制作されたレオナルド・ダ・ヴィンチの肖像画がオークションに出品されました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 126,
+      "sid": "126-1",
+      "st": "A 2010 portrait of Leonardo da Vinci was auctioned. It was painted in 2010 by a contemporary artist.",
+      "ref": "レオナルド・ダ・ヴィンチを描いた2010年制作の肖像画がオークションに出品されました。これは現代の画家が2010年に描いた作品です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 126,
+      "sid": "126-2",
+      "st": "A 2010 portrait of Leonardo da Vinci was auctioned. It's a 2010 limited-edition print of an earlier painting.",
+      "ref": "レオナルド・ダ・ヴィンチを描いた2010年制作の肖像画がオークションに出品されました。これは、以前の絵画をもとにした2010年の限定版プリントです。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 127,
+      "sid": "127-0",
+      "st": "The President is Biden.",
+      "ref": "大統領はバイデンです。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 127,
+      "sid": "127-1",
+      "st": "Newspaper Dateline  Washington, Jan. 20, 2021\nThe President is Biden.",
+      "ref": "ワシントン発、2021年1月20日\n大統領はバイデン氏です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 127,
+      "sid": "127-2",
+      "st": "2025, Updated After Inauguration\nThe President is Biden.",
+      "ref": "2025年、就任後に更新\n大統領はバイデン氏です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 127,
+      "sid": "127-3",
+      "st": "Archive — Transition 2020-21\nThe President is Biden.",
+      "ref": "アーカイブ — 2020–21年の政権移行\n大統領はバイデン氏です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 128,
+      "sid": "128-0",
+      "st": "Xi'an is the Capital of China.",
+      "ref": "西安は中国の首都です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 128,
+      "sid": "128-1",
+      "st": "About Tang Dynasty\nXi'an is the Capital of China.",
+      "ref": "唐王朝について\n西安は中国の首都です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 129,
+      "sid": "129-0",
+      "st": "Jordan scored 38 in the final.",
+      "ref": "ジョーダンは決勝で38得点を挙げました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 129,
+      "sid": "129-1",
+      "st": "Jordan scored 38 in the final. It was Michael Jordan’s 38 points in the NBA Finals.",
+      "ref": "ジョーダンは決勝で38得点を挙げました。それは、マイケル・ジョーダンがNBAファイナルで記録した38得点の試合でした。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 129,
+      "sid": "129-2",
+      "st": "In the FIBA Asia Cup title game, Jordan scored 38 in the final.",
+      "ref": "FIBAアジアカップ決勝で、ヨルダンは38得点を挙げました。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 129,
+      "sid": "129-3",
+      "st": "The Amman supporters erupted as Jordan scored 38 in the final to seal the gold.",
+      "ref": "決勝でヨルダンが38得点を挙げて金メダルを手にすると、アンマンのサポーターは歓声を上げた。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 130,
+      "sid": "130-0",
+      "st": "The United Kingdom is a member of the European Union.",
+      "ref": "英国は欧州連合の加盟国です。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 130,
+      "sid": "130-1",
+      "st": "In a 2015 civics handbook used in secondary schools, the United Kingdom is a member of the European Union.",
+      "ref": "中等学校で使われていた2015年の公民ハンドブックでは、英国は欧州連合の加盟国であるとされています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    },
+    {
+      "group_id": 130,
+      "sid": "130-2",
+      "st": "A 2025 briefing notes that, the United Kingdom is a member of the European Union.",
+      "ref": "2025年の報告書では、英国は欧州連合の加盟国であると記されています。",
+      "context_impact": "accuracy",
+      "context_categories": [
+        "A1",
+        "B4",
+        "B5"
+      ]
+    }
+  ]
+}
