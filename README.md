@@ -40,3 +40,5 @@ To construct Context-8, we defined a systematic taxonomy of contexts with wide c
 The framework of concepts of context consists of A Linguistic Context and B Non-linguistic Context. A Linguistic group contains three categories: A1 Message, A2 Language Events and A3 Genre. B Non-linguistic group contains five categories: B1 Participants, B2 Channel, B3 Social-cultural System, B4 Setting and Scene, and B5 Truth Value.
 
 For additional information about the taxonomy of context, please refer to the paper.
+
+Wang, D., & Kageura, K. (2026). Context-8: A Data Set for Evaluating Context Sensitivity in Machine Translation. In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 4902–4920). European Language Resources Association (ELRA). https://doi.org/10.63317/3cawdf257c7e.
